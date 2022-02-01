@@ -1,0 +1,126 @@
+.container {
+  min-height: 100vh;
+  background-color: #202020;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+
+  height: 100vh;
+  background-image: url("/graphics/background.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.top {
+  flex: 4;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.padTop {
+  flex: 0.9;
+}
+
+.name {
+  flex: 0.75;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: Inter-SemiBold;
+  color: #FFFFFF;
+  font-size: 48px;
+}
+
+.logo {
+  flex: 0.5;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoContainer {
+  height: 81px;
+  width: 270px;
+}
+
+.padMiddle {
+  flex: 0.15;
+}
+
+.text {
+  flex: 1.75;
+
+  display: flex;
+  align-items: center;
+  align-self: center;
+  width: 768px;
+
+  font-family: Inter-Regular;
+  color: #F0F0F0;
+  font-size: 16px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.padMiddleTwo {
+  flex: 0.1;
+}
+
+.info {
+  flex: 0.75;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.play {
+  flex: 0.75;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.padBottom {
+  flex: 0.25;
+}
+
+@media only screen and (max-width: 1200px) {
+  .main {
+    background-size: cover;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .text {
+    width: 540px;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .padTop {
+    flex: 0.5;
+  }
+  .name {
+    font-size: 9.7vw;
+  }
+  .logoContainer {
+    height: 15.46vw;
+    width: 50vw;
+  }
+  .text {
+    width: 80vw;
+    font-size: 3.6vw;
+  }
+  .padMiddleTwo {
+    flex: 0.2;
+  }
+}

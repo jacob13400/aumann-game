@@ -2,9 +2,9 @@ import styles from './styles.module.css'
 
 export default function Credits() { 
   return (
-    <div className={styles.bottom}>
+    <div className={styles.container}>
       <div className={styles.left}>
-        <div className={styles.bottomHead}>
+        <div className={styles.title}>
           Developers
         </div>
         <div className={styles.names}>
@@ -19,7 +19,7 @@ export default function Credits() {
         </div>
       </div>
       <div className={styles.right}>
-        <div className={styles.bottomHead}>
+        <div className={styles.title}>
           Creators
         </div>
         <div className={styles.names}>

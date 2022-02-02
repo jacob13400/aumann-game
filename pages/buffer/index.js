@@ -165,7 +165,7 @@ export default function Buffer(props) {
     <div className={styles.container}>
       <Head>
         <title>Waiting Room</title>
-        <link rel="icon" href="../icons/logo.png" />
+        <link rel="icon" href="/icons/logoBlack.png"/>
       </Head>
 
       <main className={styles.main}>

@@ -1,4 +1,5 @@
-import styles from './styles.module.css'
+import BSButton from 'react-bootstrap/Button';
+import styles from './styles.module.css';
 
 export default function Button({type, text, action}) {
   if(type == "play" || type == "info") {
@@ -21,6 +22,13 @@ export default function Button({type, text, action}) {
           </div>
         </div>
       </a>
+    )
+  }
+  else if(type == "form") {
+    return (
+      <BSButton type="submit" variant="dark">
+        {text}
+      </BSButton>
     )
   }
   else {

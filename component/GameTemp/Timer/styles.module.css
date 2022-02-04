@@ -1,0 +1,15 @@
+.container {
+  
+}
+
+.timer {
+  font-size: 36px;
+  font-family: Inter-Medium;
+  color: #FFFFFF;
+}
+
+@media only screen and (max-width: 600px) {
+  .timer {
+    font-size: 24px;
+  }
+}

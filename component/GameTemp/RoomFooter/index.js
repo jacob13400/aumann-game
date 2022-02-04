@@ -1,20 +1,17 @@
 import styles from './styles.module.css';
 
-export default function RoomFooter(props) {
-  var seconds = props.seconds.toString();
-  var minutes = props.minutes.toString();
-  if (seconds.length == 1) {
-    seconds = "0" + seconds;
-  }
-  if (minutes.length == 1) {
-    minutes = "0" + minutes;
-  }
+import Timer from '../Timer';
+import UserListModal from '../../Modals/UserListModal'; // Add button to view userlist modal here in mobile view
 
+export default function RoomFooter(props) {
   return (
-    <div className={styles.bottom}>
+    <div className={styles.container}>
       <div className={styles.timer}>
-        {minutes} : {seconds}
+        <Timer time={props.time}/>
       </div>
+      {/* <div className={styles.timer}> */}
+      {/*   {minutes} : {seconds} */}
+      {/* </div> */}
     </div>
   )
 }

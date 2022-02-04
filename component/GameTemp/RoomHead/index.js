@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './styles.module.css';
 
-import UserListModal from '../../component/Modals/UserListModal';
+import UserListModal from '../../Modals/UserListModal';
 
 export default function RoomHead(props) {
   const [userListModalShow, setUserListModalShow] = React.useState(false);

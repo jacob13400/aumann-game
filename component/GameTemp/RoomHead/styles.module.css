@@ -6,7 +6,7 @@
 .logo {
   display: flex;
 
-  background-image: url('../../public/icons/logo.png');
+  background-image: url('../../../public/icons/logo.png');
   background-repeat: no-repeat;
   background-size: contain;
 

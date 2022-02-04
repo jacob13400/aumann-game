@@ -2,12 +2,12 @@ import React, { useEffect, useState } from 'react';
 import Form from 'react-bootstrap/Form';
 import styles from './styles.module.css';
 
-import Button from '../../component/Button';
-import LockModal from '../../component/Modals/LockModal';
-import AlertEmptyModal from '../../component/Modals/AlertEmptyModal';
-import AlertLimitModal from '../../component/Modals/AlertLimitModal';
-import { updateUserEstimate } from '../../lib/userEstimate';
-import { updateUserPoints } from '../../lib/userPoints';
+import Button from '../../../component/Button';
+import LockModal from '../../../component/Modals/LockModal';
+import AlertEmptyModal from '../../../component/Modals/AlertEmptyModal';
+import AlertLimitModal from '../../../component/Modals/AlertLimitModal';
+import { updateUserEstimate } from '../../../lib/userEstimate';
+import { updateUserPoints } from '../../../lib/userPoints';
 // import { getScore } from '../../pages/api/calculateScore';
 
 

@@ -44,7 +44,7 @@ export default function CreateModal(props) {
         var query = {flag: true, message: formState.username};
         var usernameCoverted = await convertData(query);
 
-        Router.push({pathname: "/buffer", query:{droom2021: roomIDCoverted, duser2021: usernameCoverted}});
+        Router.push({pathname: "/room", query:{droom2021: roomIDCoverted, duser2021: usernameCoverted}});
       }
 
       // Progress bar end

@@ -64,15 +64,26 @@ export default function Button({type, flag=false, text, action}) {
       </a>
     )
   }
-  else {
-    return (
-      <a className={styles.lock} onClick={action} style={{textDecoration: 'none'}}>
-        <div className={styles.containerLock}>
+  else if (type == "lock") {
+    if (flag) {
+      return (
+        <div className={styles.containerLockInactive}>
           <div className={styles.textLock}>
             {text}
           </div>
         </div>
-      </a>
-    )
+      )
+    }
+    else {
+      return (
+        <a className={styles.lock} onClick={action} style={{textDecoration: 'none'}}>
+          <div className={styles.containerLock}>
+            <div className={styles.textLock}>
+              {text}
+            </div>
+          </div>
+        </a>
+      )
+    }
   }
 }

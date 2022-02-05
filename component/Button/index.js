@@ -53,6 +53,17 @@ export default function Button({type, flag=false, text, action}) {
       )
     }
   }
+  else if (type == "userModalShow") {
+    return (
+      <a className={styles.users} onClick={action} style={{textDecoration: 'none'}}>
+        <div className={styles.containerUMS}>
+          <div className={styles.textUMS}>
+            {text}
+          </div>
+        </div>
+      </a>
+    )
+  }
   else {
     return (
       <a className={styles.lock} onClick={action} style={{textDecoration: 'none'}}>

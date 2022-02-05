@@ -1,5 +1,5 @@
 .container {
-
+  flex: 1;
 }
 
 .timer {
@@ -8,8 +8,18 @@
   margin-right: 4%;
 }
 
+.modalButton {
+  display: flex;
+
+  justify-content: center;
+  visibility: hidden;
+}
+
 @media only screen and (max-width: 850px) {
-  .container {
+  .timer {
     display: none;
+  }
+  .modalButton {
+    visibility: visible;
   }
 }

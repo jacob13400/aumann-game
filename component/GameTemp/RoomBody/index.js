@@ -28,8 +28,12 @@ export default function RoomBody(props) {
 
   return (
     <div className={styles.container}>
-      <UserList userList={props.userList} username={props.username}/>
-      <Game userList={props.userList} username={props.username} roomID={props.roomID} time={props.time}/>
+      <div className={styles.users}>
+        <UserList userList={props.userList} username={props.username}/>
+      </div>
+      <div className={styles.game}>
+        <Game userList={props.userList} username={props.username} roomID={props.roomID} time={props.time} endFlag={props.endFlag}/>
+      </div>
       {/* <UserList userList={userList} username={username}/> */}
       {/* <Game userList={userList} username={username} roomID={roomID} minutes={timer.minutes} seconds={timer.seconds}/> */}
     </div>

@@ -17,10 +17,7 @@ var flag = false;
 export default function GameTemp(props) {
   const [roomID, setRoomID] = useState(props.room);
   const [username, setUsername] = useState(props.user);
-  const [userList, setUserList] = useState([{ id: 0, username: 'jozdien', roomID: 0, points: 0, estimate: "75", lock: false, 
-                                              color: "#0FFFFF", question: "What is the air-speed velocity of an unladen swallow?"},
-                                              { id: 1, username: 'zeref', roomID: 0, points: 0, estimate: "75", lock: false, 
-                                              color: "#FFFFFF", question: "What is the air-speed velocity of an unladen swallow?"}]);
+  const [userList, setUserList] = useState();
   const [room, setRoom] = useState({"questionID": "0","updatedAt": {"seconds": 1629388503,"nanoseconds": 722000000},"users": [{"username": "verd"}],
                                     "createdAt": {"seconds": 1629355142,"nanoseconds": 838000000},"id": "werds"});
   const [startTime, setStartTime] = useState();
@@ -120,7 +117,7 @@ export default function GameTemp(props) {
     <div className={styles.container}>
       <RoomHead time={time}/>
       <RoomBody userList={userList} username={username} roomID={roomID} startTime={startTime} setTime={setTime} timeLimit={300} endFlag={endFlag} setEndFlag={setEndFlag}/>
-      <RoomFooter time={time}/>
+      <RoomFooter time={time} userList={userList} username={username}/>
       {/* <RoomHead userList={userList} username={username} roomID={roomID} minutes={timer.minutes} seconds={timer.seconds}/> */}
       {/* <div className={styles.body}> */}
       {/*   <UserList userList={userList} username={username}/> */}

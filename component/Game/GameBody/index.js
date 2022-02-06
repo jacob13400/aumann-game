@@ -34,7 +34,7 @@ const handleLock = async (estimateValue, setLockModalShow, setLock, setAlertEmpt
 
 var questionFlag = false;
 
-export default function Game(props) {
+export default function GameBody(props) {
   const [question, setQuestion] = React.useState("Please wait while the question is loaded.");
   const [answer, setAnswer] = React.useState("42");
   const [answerBool, setAnswerBool] = React.useState(false); // true if answer correct

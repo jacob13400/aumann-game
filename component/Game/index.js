@@ -10,7 +10,7 @@ import { getRoom } from '../../lib/roomGet';
 
 var flag = false;
 
-export default function GameTemp(props) {
+export default function Game(props) {
   const [roomID, setRoomID] = useState(props.room);
   const [username, setUsername] = useState(props.user);
   const [userList, setUserList] = useState();

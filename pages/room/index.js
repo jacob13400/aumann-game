@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Buffer from '../../component/Buffer';
-import GameTemp from '../../component/GameTemp';
+import Game from '../../component/Game';
 
 export default function Room(props) {
   const [showBuffer, setShowBuffer] = useState(true);
@@ -20,7 +20,7 @@ export default function Room(props) {
         showBuffer ? 
           <Buffer room={props.droom2021} user={props.duser2021} setShowBuffer={setShowBuffer}/> 
         : 
-          <GameTemp room={props.droom2021} user={props.duser2021}/>
+          <Game room={props.droom2021} user={props.duser2021}/>
       }
     </div>
   )

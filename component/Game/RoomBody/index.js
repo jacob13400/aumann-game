@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './styles.module.css';
 
 import UserList from '../UserList';
-import Game from '../Game';
+import GameBody from '../GameBody';
 
 export default function RoomBody(props) {
   const timeLeft = () => {
@@ -32,10 +32,8 @@ export default function RoomBody(props) {
         <UserList userList={props.userList} username={props.username}/>
       </div>
       <div className={styles.game}>
-        <Game userList={props.userList} username={props.username} roomID={props.roomID} time={props.time} endFlag={props.endFlag} setEndFlag={props.setEndFlag}/>
+        <GameBody userList={props.userList} username={props.username} roomID={props.roomID} time={props.time} endFlag={props.endFlag} setEndFlag={props.setEndFlag}/>
       </div>
-      {/* <UserList userList={userList} username={username}/> */}
-      {/* <Game userList={userList} username={username} roomID={roomID} minutes={timer.minutes} seconds={timer.seconds}/> */}
     </div>
   )
 }

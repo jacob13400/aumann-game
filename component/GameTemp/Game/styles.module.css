@@ -65,6 +65,7 @@
 .players {
   height: 200px;
   display: flex;
+  flex-wrap: wrap;
 
   padding-top: 40px;
 }

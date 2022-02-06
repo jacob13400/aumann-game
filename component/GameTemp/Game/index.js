@@ -45,15 +45,15 @@ export default function Game(props) {
   const [alertLimitModalShow, setAlertLimitModalShow] = React.useState(false);
 
   const decodeHTML = (str) => {
-    return str.replace(/(&#(\d+);)/g, function(match, capture, charCode) {
-      return String.fromCharCode(charCode);
-    });
+    var txt = document.createElement("textarea");
+    txt.innerHTML = str;
+    return txt.value;
   }
 
   // Function to handle changing of value in the estimate input field - some values aren't allowed, like characters, etc.
   const handleChange = async (estimate) => {
     if (!estimate || estimate.match(/^\d{1,}(\.\d{0,4})?$/)) {
-      setEstimate(value);
+      setEstimate(estimate);
       if (estimate > 0 && estimate < 100) {   
         const query = {username: props.username, roomID: Number(props.roomID), estimate: estimate};
         const points = await updateUserEstimate(query);
@@ -68,6 +68,8 @@ export default function Game(props) {
 
   const updatePoints = async () => {
     const query = {username: props.username, roomID: Number(props.roomID), estimate: Number(estimate), answerBool: answerBool};
+    console.log(estimate);
+    console.log(Number(estimate));
     const points = await updateUserPoints(query);
   };
 
@@ -75,6 +77,10 @@ export default function Game(props) {
     if (props.endFlag) {
       setLock(true);
       updatePoints(); // Calculating user score
+    }
+
+    if (props.userList && props.userList[0] && props.userList.every(player => player.lock)) {
+      props.setEndFlag(true);
     }
 
     if(!questionFlag){
@@ -133,7 +139,7 @@ export default function Game(props) {
       </div>
       <LockModal
         show={lockModalShow}
-        onConfirm={() => handleLock(estimateValue, setLockModalShow, setLock, setAlertEmptyModalShow, setAlertLimitModalShow, props)}
+        onConfirm={() => handleLock(estimate, setLockModalShow, setLock, setAlertEmptyModalShow, setAlertLimitModalShow, props)}
         onHide={() => setLockModalShow(false)}
       />
       <AlertEmptyModal

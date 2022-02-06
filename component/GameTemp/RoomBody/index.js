@@ -32,7 +32,7 @@ export default function RoomBody(props) {
         <UserList userList={props.userList} username={props.username}/>
       </div>
       <div className={styles.game}>
-        <Game userList={props.userList} username={props.username} roomID={props.roomID} time={props.time} endFlag={props.endFlag}/>
+        <Game userList={props.userList} username={props.username} roomID={props.roomID} time={props.time} endFlag={props.endFlag} setEndFlag={props.setEndFlag}/>
       </div>
       {/* <UserList userList={userList} username={username}/> */}
       {/* <Game userList={userList} username={username} roomID={roomID} minutes={timer.minutes} seconds={timer.seconds}/> */}

@@ -38,7 +38,7 @@ export default function GameBody(props) {
   const [question, setQuestion] = React.useState("Please wait while the question is loaded.");
   const [answer, setAnswer] = React.useState("42");
   const [answerBool, setAnswerBool] = React.useState(false); // true if answer correct
-  const [estimate, setEstimate] = React.useState("33");
+  const [estimate, setEstimate] = React.useState("75");
   const [lock, setLock] = React.useState(false);
   const [lockModalShow, setLockModalShow] = React.useState(false);
   const [alertEmptyModalShow, setAlertEmptyModalShow] = React.useState(false);
@@ -68,8 +68,6 @@ export default function GameBody(props) {
 
   const updatePoints = async () => {
     const query = {username: props.username, roomID: Number(props.roomID), estimate: Number(estimate), answerBool: answerBool};
-    console.log(estimate);
-    console.log(Number(estimate));
     const points = await updateUserPoints(query);
   };
 
@@ -83,11 +81,19 @@ export default function GameBody(props) {
       props.setEndFlag(true);
     }
 
-    if(!questionFlag){
-      if(props.userList && props.userList[0]){
+    if(props.userList && props.userList[0]) {
+      props.userList.map((player, index) => {
+        if(player.username == props.username) {
+          setLock(player.lock);
+        }
+      })
+    }
+
+    if(!questionFlag) {
+      if(props.userList && props.userList[0]) {
         setQuestion(decodeHTML(props.userList[0].question));
         props.userList.map((player, index) => {
-          if(player.username == props.username){
+          if(player.username == props.username) {
             setAnswer(decodeHTML(player.answer));
             setAnswerBool(player.answerBool);
             setEstimate(player.estimate);
@@ -118,7 +124,7 @@ export default function GameBody(props) {
         <div className={styles.estimateInput}>
           <Form onSubmit={(event) => {event.preventDefault()}}>
             <Form.Group controlId="estimate">
-              <Form.Control className={styles.number} type="text" placeholder="33.33" disabled={lock} value={estimate} 
+              <Form.Control className={styles.number} type="text" placeholder="75" disabled={lock} value={estimate} 
                 onChange={(e) => {handleChange(e.target.value)}}/>
             </Form.Group>
           </Form>

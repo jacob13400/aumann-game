@@ -1,0 +1,23 @@
+.container {
+  flex: 4;
+  display: flex;
+}
+
+.users {
+  display: flex;
+
+  align-self: center;
+  margin-left: 50px;
+}
+
+.game {
+  display: flex;
+
+  align-self: center;
+}
+
+@media only screen and (max-width: 850px) {
+  .users {
+    display: none;
+  }
+}

@@ -1,0 +1,55 @@
+.container {
+  width: 125px;
+  height: 70px;
+  margin-right: 20px;
+
+  border-style: solid;
+  border-width: 2px;
+  border-color: #FFFFFF;
+  border-radius: 5px;
+}
+
+.estimate {
+  margin-left: 15px;
+  margin-top: 10px;
+
+  font-size: 14px;
+  font-family: Inter-Medium;
+  color: #FFFFFF;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+}
+
+.name {
+  width: 100px;
+  margin-left: 15px;
+  margin-top: 5px;
+
+  font-size: 12px;
+  font-family: Inter-Regular;
+  color: #0FFFFF;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+}
+
+@media only screen and (max-width: 850px) {
+  .container {
+    width: 100px;
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .container {
+    width: 85px;
+    height: 65px;
+  }
+  .estimate {
+    font-size: 12px;
+  }
+  .name {
+    font-size: 11px;
+  }
+}

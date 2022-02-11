@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+
+  padding-left: 50px;
+}
+
+.question {
+  display: flex;
+  height: 175px;
+
+  padding-top: 50px;
+  
+  font-size: 18px;
+  font-family: Inter-Medium;
+  color: #FFFFFF;
+}
+
+.answer {
+  display: flex;
+  height: 50px;
+
+  align-items: center;
+}
+
+.answerTitle {
+  width: 120px;
+
+  font-size: 15px;
+  font-family: Inter-Regular;
+  color: #F0F0F0;
+}
+
+.answerText {
+  font-size: 15px;
+  font-family: Inter-Medium;
+  color: #FFFFFF;
+}
+
+.estimate {
+  display: flex;
+  height: 75px;
+
+  align-items: center;
+}
+
+.estimateTitle {
+  width: 120px;
+
+  font-size: 15px;
+  font-family: Inter-Regular;
+  color: #F0F0F0;
+}
+
+.estimateInput {
+  width: 80px;
+  margin-top: 15px;
+}
+
+.estimateLock {
+  margin-left: 20px;
+}
+
+.players {
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+
+  padding-top: 40px;
+}
+
+@media only screen and (max-width: 850px) {
+  .container {
+    padding-left: 5%;
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .container {
+    height: 400px;
+  }
+}

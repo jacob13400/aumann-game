@@ -1,0 +1,65 @@
+.container {
+  flex: 1;
+  width: 100vw;
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  flex: 2;
+
+  height: 50px;
+  width: 50px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.logoLink {
+  width: 50px;
+
+  background-image: url('../../../public/icons/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.logoLink:hover {
+  opacity: 0.8;
+}
+
+.title {
+  flex: 5;
+
+  text-align: center;
+  margin-top: 30px;
+
+  font-size: 36px;
+  font-family: "Inter-SemiBold";
+  color: #FFFFFF;
+}
+
+.timer {
+  flex: 2;
+  visibility: hidden;
+
+  text-align: right;
+  margin-top: 30px;
+  margin-right: 4%;
+}
+
+@media only screen and (max-width: 850px) {
+  .logo {
+    display: none;
+  }
+  .title {
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 28px;
+  }
+  .timer {
+    flex: 5;
+    margin-top: 27.5px;
+    margin-right: 25px;
+    visibility: visible;
+  }
+}

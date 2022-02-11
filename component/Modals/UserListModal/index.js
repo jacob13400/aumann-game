@@ -19,8 +19,8 @@ export default function UserListModal(props) {
       </Modal.Header>
       <Modal.Body>
         {
-          props.userList.map((player, index) => 
-            <div className={styles.playerModal}>
+          props.userList ? props.userList.map((player, index) => 
+            <div className={styles.playerModal} key={index}>
               <div className={styles.playerNoModal}>
                 #{index + 1}
               </div>
@@ -34,7 +34,7 @@ export default function UserListModal(props) {
                 </div>
               </div>
             </div>
-          )
+          ) : null
         }
       </Modal.Body>
     </Modal>

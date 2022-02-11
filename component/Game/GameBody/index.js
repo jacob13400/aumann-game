@@ -27,7 +27,7 @@ const handleLock = async (estimateValue, setLockModalShow, setLock, setAlertEmpt
   else
   {
     setLock(true);
-    const query = {username: props.username, roomID: Number(props.roomID), estimate: estimateValue};
+    const query = {username: props.username, roomID: Number(props.roomID), estimate: estimateValue, lock: true};
     const points = await updateUserEstimate(query);
   }
 }

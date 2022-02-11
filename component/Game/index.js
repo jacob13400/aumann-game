@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 import RoomHead from './RoomHead';
 import RoomBody from './RoomBody';
 import RoomFooter from './RoomFooter';
-import { getUsers } from '../../pages/api/users';
+import { getUsers } from '../../lib/userGet';
 import { convertData } from '../../lib/encryptDecrypt';
 import { getRoom } from '../../lib/roomGet';
 

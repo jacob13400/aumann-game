@@ -7,6 +7,7 @@ import Button from '../../../component/Button';
 import LockModal from '../../../component/Modals/LockModal';
 import AlertEmptyModal from '../../../component/Modals/AlertEmptyModal';
 import AlertLimitModal from '../../../component/Modals/AlertLimitModal';
+import GameEndModal from '../../../component/Modals/GameEndModal';
 import { updateUserEstimate } from '../../../lib/userEstimate';
 import { updateUserPoints } from '../../../lib/userPoints';
 
@@ -35,6 +36,7 @@ const handleLock = async (estimateValue, setLockModalShow, setLock, setAlertEmpt
 var questionFlag = false;
 
 export default function GameBody(props) {
+  const [playersNum, setPlayersNum] = React.useState(1);
   const [question, setQuestion] = React.useState("Please wait while the question is loaded.");
   const [answer, setAnswer] = React.useState("42");
   const [answerBool, setAnswerBool] = React.useState(false); // true if answer correct
@@ -43,6 +45,7 @@ export default function GameBody(props) {
   const [lockModalShow, setLockModalShow] = React.useState(false);
   const [alertEmptyModalShow, setAlertEmptyModalShow] = React.useState(false);
   const [alertLimitModalShow, setAlertLimitModalShow] = React.useState(false);
+  const [gameEndModalShow, setGameEndModalShow] = React.useState(false);
 
   const decodeHTML = (str) => {
     var txt = document.createElement("textarea");
@@ -74,6 +77,7 @@ export default function GameBody(props) {
   useEffect(() => {
     if (props.endFlag) {
       setLock(true);
+      setGameEndModalShow(true);
       updatePoints(); // Calculating user score
     }
 
@@ -91,6 +95,7 @@ export default function GameBody(props) {
 
     if(!questionFlag) {
       if(props.userList && props.userList[0]) {
+        setPlayersNum(props.userList.length);
         setQuestion(decodeHTML(props.userList[0].question));
         props.userList.map((player, index) => {
           if(player.username == props.username) {
@@ -155,6 +160,13 @@ export default function GameBody(props) {
       <AlertLimitModal
         show={alertLimitModalShow}
         onHide={() => setAlertLimitModalShow(false)}
+      />
+      <GameEndModal
+        show={gameEndModalShow}
+        correct={answerBool}
+        estimate={estimate}
+        count={playersNum}
+        onHide={() => setGameEndModalShow(false)}
       />
     </div>
   )

@@ -3,7 +3,7 @@ import styles from './styles.module.css';
 
 import NProgress from 'nprogress';
 import Button from '../Button';
-import { getUsers } from '../../pages/api/users';
+import { getUsers } from '../../lib/userGet';
 import { getRoom } from '../../lib/roomGet';
 import { getQuestions } from '../../lib/questionsGet';
 import { convertData } from '../../lib/encryptDecrypt';

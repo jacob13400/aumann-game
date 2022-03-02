@@ -8,14 +8,14 @@
       "4" : "Skyline"
     },
     "2" : {
-      "question" : "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+      "question" : "What is the only country in the world with a flag that doesn't have four right angles?",
       "1" : "Nepal",
       "2" : "Panama",
       "3" : "Angola",
       "4" : "Egypt"
     },
     "3" : {
-      "question" : "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+      "question" : "What is the "powerhouse" of the Eukaryotic animal cell?",
       "1" : "Mitochondria",
       "2" : "Nucleus",
       "3" : "Chloroplast",
@@ -31,19 +31,19 @@
     "5" : {
       "question" : "What is the capital of Chile?",
       "1" : "Santiago",
-      "2" : "Valpara&iacute;so",
-      "3" : "Copiap&oacute;",
+      "2" : "Valparaíso",
+      "3" : "Copiapó",
       "4" : "Antofagasta"
     },
     "6" : {
-      "question" : "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+      "question" : "Who wrote the musical composition, "Rhapsody In Blue"?",
       "1" : "George Gershwin",
       "2" : "Irving Berlin",
       "3" : "Duke Ellington",
       "4" : "Johnny Mandel"
     },
     "7" : {
-      "question" : "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+      "question" : "Which of these levels does NOT appear in the console/PC versions of the game "Sonic Generations"?",
       "1" : "Mushroom Hill",
       "2" : "City Escape",
       "3" : "Planet Wisp",
@@ -58,15 +58,15 @@
     },
     "9" : {
       "question" : "Who composed the soundtrack for the game VVVVVV?",
-      "1" : "Magnus P&aring;lsson",
+      "1" : "Magnus Pålsson",
       "2" : "Terry Cavanagh",
       "3" : "Danny Baranowsky",
       "4" : "Joel Zimmerman"
     },
     "10" : {
-      "question" : "Which of these artists did NOT remix the song &quot;Faded&quot; by Alan Walker?",
+      "question" : "Which of these artists did NOT remix the song "Faded" by Alan Walker?",
       "1" : "Skrillex",
-      "2" : "Ti&euml;sto",
+      "2" : "Tiësto",
       "3" : "Slushii",
       "4" : "Dash Berlin"
     },
@@ -85,9 +85,9 @@
       "4" : "Lewis Carroll"
     },
     "13" : {
-      "question" : "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+      "question" : "What was the subject of the 2014 song "CoCo" by American rapper O. T. Genasis?",
       "1" : "Cocaine",
-      "2" : "Conan O&#039;Brien",
+      "2" : "Conan O'Brien",
       "3" : "Cobalt(II) carbonate",
       "4" : "Coconut cream pie"
     },
@@ -102,8 +102,8 @@
       "question" : "Which of these songs is not by Tatsuro Yamashita?",
       "1" : "Lucky Lady Feel So Good ",
       "2" : "Merry-Go Round",
-      "3" : "Let&#039;s Dance Baby",
-      "4" : "Love Talkin&#039;"
+      "3" : "Let's Dance Baby",
+      "4" : "Love Talkin'"
     },
     "16" : {
       "question" : "In what Homestuck Update was [S] Game Over released?",
@@ -114,7 +114,7 @@
     },
     "17" : {
       "question" : "The Touhou Project series of games is often associated with which genre?",
-      "1" : "Shoot &#039;em up",
+      "1" : "Shoot 'em up",
       "2" : "Strategy",
       "3" : "FPS",
       "4" : "Casual"
@@ -151,7 +151,7 @@
       "question" : "Which 80s band is fronted by singer/guitarist Robert Smith?",
       "1" : "The Cure",
       "2" : "The Smiths",
-      "3" : "Echo &amp; the Bunnymen",
+      "3" : "Echo & the Bunnymen",
       "4" : "New Order"
     },
     "23" : {
@@ -176,14 +176,14 @@
       "4" : "Hungary"
     },
     "26" : {
-      "question" : "How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?",
+      "question" : "How much weight did Chris Pratt lose for his role as Star-Lord in "Guardians of the Galaxy"?",
       "1" : "60 lbs",
       "2" : "30 lbs",
       "3" : "50 lbs",
       "4" : "70 lbs"
     },
     "27" : {
-      "question" : "The characters of &quot;Log Horizon&quot; are trapped in what game?",
+      "question" : "The characters of "Log Horizon" are trapped in what game?",
       "1" : "Elder Tale",
       "2" : "Sword Art Online",
       "3" : "Tower Unite",
@@ -197,28 +197,28 @@
       "4" : "Junko Enoshima"
     },
     "29" : {
-      "question" : "What year was Min Yoongi from South Korea boy band &quot;BTS&quot; born in?",
+      "question" : "What year was Min Yoongi from South Korea boy band "BTS" born in?",
       "1" : "1993",
       "2" : "1992",
       "3" : "1995",
       "4" : "1994"
     },
     "30" : {
-      "question" : "How many different notes is the tune, &quot;Song of Healing&quot;, comprised of in &quot;The Legend of Zelda: Majora&#039;s Mask&quot;?",
+      "question" : "How many different notes is the tune, "Song of Healing", comprised of in "The Legend of Zelda: Majora's Mask"?",
       "1" : "3",
       "2" : "4",
       "3" : "1",
       "4" : "6"
     },
     "31" : {
-      "question" : "Which rock band released the album &quot;The Bends&quot; in March 1995?",
+      "question" : "Which rock band released the album "The Bends" in March 1995?",
       "1" : "Radiohead",
       "2" : "Nirvana",
       "3" : "Coldplay",
       "4" : "U2"
     },
     "32" : {
-      "question" : "When was the &quot;Siege of Leningrad&quot; lifted during World War II?",
+      "question" : "When was the "Siege of Leningrad" lifted during World War II?",
       "1" : "January 1944",
       "2" : "September 1943",
       "3" : "November 1943",
@@ -229,17 +229,17 @@
       "1" : "Dave Navarro",
       "2" : "Tom Morello ",
       "3" : "Billy Corgan",
-      "4" : "Ed O&#039;Brien"
+      "4" : "Ed O'Brien"
     },
     "34" : {
-      "question" : "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+      "question" : "Which "Green Arrow" sidekick commonly wears a baseball cap?",
       "1" : "Roy Harper",
       "2" : "Black Canary",
       "3" : "Emiko Queen",
       "4" : "Dick Grayson"
     },
     "35" : {
-      "question" : "Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+      "question" : "Bjö rk's "Unison" contains a sample of which Oval song?",
       "1" : "Aero Deck",
       "2" : "Textuell",
       "3" : "Panorama",
@@ -267,25 +267,25 @@
       "4" : "1959"
     },
     "39" : {
-      "question" : "In &quot;Need for Speed III: Hot Pursuit&quot;, what is the name of the fictional car?",
-      "1" : "El Ni&ntilde;o",
-      "2" : "R&aacute;pido",
-      "3" : "&Aacute;gil",
-      "4" : "La Ni&ntilde;a"
+      "question" : "In "Need for Speed III: Hot Pursuit", what is the name of the fictional car?",
+      "1" : "El Ni ño",
+      "2" : "Rápido",
+      "3" : "Ágil",
+      "4" : "La Ni ña"
     },
     "40" : {
-      "question" : "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+      "question" : ""Doctor Jones", "Turn Back Time" and "Barbie Girl" were UK number ones for which Eurodance group?",
       "1" : "Aqua",
       "2" : "Vengaboys",
       "3" : "Eiffel 65",
       "4" : "Sash!"
     },
     "41" : {
-      "question" : "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
-      "1" : "A&#039; + B&#039;",
-      "2" : "A&#039;B + B&#039;A",
-      "3" : "A&#039;B&#039;",
-      "4" : "AB&#039; + AB"
+      "question" : "According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+      "1" : "A' + B'",
+      "2" : "A'B + B'A",
+      "3" : "A'B'",
+      "4" : "AB' + AB"
     },
     "42" : {
       "question" : "Which Norse God has a horse named Sleipnir?",
@@ -295,7 +295,7 @@
       "4" : "Balder"
     },
     "43" : {
-      "question" : "Who sings the rap song &quot;Secret Wars Part 1&quot;?",
+      "question" : "Who sings the rap song "Secret Wars Part 1"?",
       "1" : "The Last Emperor",
       "2" : "MC Frontalot",
       "3" : "Busdriver",
@@ -323,7 +323,7 @@
       "4" : "Be Good Johnny"
     },
     "47" : {
-      "question" : "Who plays Jack Burton in the movie &quot;Big Trouble in Little China?&quot;",
+      "question" : "Who plays Jack Burton in the movie "Big Trouble in Little China?"",
       "1" : "Kurt Russell",
       "2" : "Patrick Swayze",
       "3" : "John Cusack",
@@ -351,7 +351,7 @@
       "4" : "24"
     },
     "51" : {
-      "question" : "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+      "question" : "Where is the train station "Llanfair pwllgwyngyll gogery chwyrn drobwll llan tysilio gogo goch"?",
       "1" : "Wales",
       "2" : "Moldova",
       "3" : "Czech Republic",
@@ -361,10 +361,11 @@
       "question" : "What is the fastest  land animal?",
       "1" : "Cheetah",
       "2" : "Lion",
-      "3" : "Thomson&rsquo;s Gazelle",
+      "3" : "Thomson's Gazelle",
       "4" : "Pronghorn Antelope"
     },
     "53" : {
+    
       "question" : "The Italian automaker Lamborghini uses what animal as its logo?",
       "1" : "Bull",
       "2" : "Bat",
@@ -386,15 +387,15 @@
       "4" : "The Dark Side of the Moon"
     },
     "56" : {
-      "question" : "What is Hermione Granger&#039;s middle name?",
+      "question" : "What is Hermione Granger's middle name?",
       "1" : "Jean",
       "2" : "Jane",
       "3" : "Emma",
       "4" : "Jo"
     },
     "57" : {
-      "question" : "Who directed the 2015 movie &quot;The Revenant&quot;?",
-      "1" : "Alejandro G. I&ntilde;&aacute;rritu",
+      "question" : "Who directed the 2015 movie "The Revenant"?",
+      "1" : "Alejandro G. I ñárritu",
       "2" : "Christopher Nolan",
       "3" : "David Fincher",
       "4" : "Wes Anderson"
@@ -414,10 +415,10 @@
       "4" : "Foreigner"
     },
     "60" : {
-      "question" : "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "question" : "This movie contains the quote, "Nobody puts Baby in a corner."",
       "1" : "Dirty Dancing",
       "2" : "Three Men and a Baby",
-      "3" : "Ferris Bueller&#039;s Day Off",
+      "3" : "Ferris Bueller's Day Off",
       "4" : "Pretty in Pink"
     },
     "61" : {
@@ -435,21 +436,21 @@
       "4" : "Real Warrior"
     },
     "63" : {
-      "question" : "In the original &quot;Super Mario Bros.&quot;, what is the acceleration of Mario if he was in free fall?",
+      "question" : "In the original "Super Mario Bros.", what is the acceleration of Mario if he was in free fall?",
       "1" : "91.28 m/s^2",
       "2" : "110  m/s^2",
       "3" : "9.42  m/s^2",
       "4" : "4.4  m/s^2"
     },
     "64" : {
-      "question" : "What is the name of the first &quot;Star Wars&quot; film by release order?",
+      "question" : "What is the name of the first "Star Wars" film by release order?",
       "1" : "A New Hope",
       "2" : "The Phantom Menace",
       "3" : "The Force Awakens",
       "4" : "Revenge of the Sith"
     },
     "65" : {
-      "question" : "In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?",
+      "question" : "In the 2002 video game "Kingdom Hearts", how many playable worlds were there?",
       "1" : "14",
       "2" : "13",
       "3" : "16",
@@ -458,7 +459,7 @@
     "66" : {
       "question" : "Who is the creator of the Super Smash Bros. Series?",
       "1" : "Masahiro Sakurai",
-      "2" : "Reggie Fils-Aim&eacute;",
+      "2" : "Reggie Fils-Aimé",
       "3" : "Bill Trinen",
       "4" : "Hideo Kojima"
     },
@@ -477,7 +478,7 @@
       "4" : "Chiron"
     },
     "69" : {
-      "question" : "Guy&#039;s Grocery Games is hosted by which presenter?",
+      "question" : "Guy's Grocery Games is hosted by which presenter?",
       "1" : "Guy Fieri",
       "2" : "Guy Martin",
       "3" : "Guy Ritchie",
@@ -540,7 +541,7 @@
       "4" : "Miley Cyrus"
     },
     "78" : {
-      "question" : "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+      "question" : "In TF2 Lore, what are the names of the Heavy's younger sisters?",
       "1" : "Yana and Bronislava",
       "2" : "Gaba and Anna",
       "3" : "Yanna and Gaba",
@@ -575,7 +576,7 @@
       "4" : "Jim Petersson"
     },
     "83" : {
-      "question" : "When was &quot;System Shock&quot; released?",
+      "question" : "When was "System Shock" released?",
       "1" : "1994",
       "2" : "1995",
       "3" : "2000",
@@ -589,14 +590,14 @@
       "4" : "13"
     },
     "85" : {
-      "question" : "If someone said &quot;you are olid&quot;, what would they mean?",
+      "question" : "If someone said "you are olid", what would they mean?",
       "1" : "You smell extremely unpleasant.",
       "2" : "You are out of shape/weak.",
       "3" : "Your appearance is repulsive.",
       "4" : "You are incomprehensible/an idiot."
     },
     "86" : {
-      "question" : "Which ability from the &quot;Magic: The Gathering&quot; Scars of Mirrodin expansion involves having at least three artifacts in play?",
+      "question" : "Which ability from the "Magic: The Gathering" Scars of Mirrodin expansion involves having at least three artifacts in play?",
       "1" : "Metalcraft",
       "2" : "Affinity",
       "3" : "Imprint",
@@ -617,21 +618,21 @@
       "4" : "109 Earth years"
     },
     "89" : {
-      "question" : "On the NBC show Community what was Star Burns&#039; real name?",
+      "question" : "On the NBC show Community what was Star Burns' real name?",
       "1" : "Alex",
       "2" : "Todd",
       "3" : "Neal",
       "4" : "Grimus"
     },
     "90" : {
-      "question" : "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+      "question" : "What is the name of Eragon's dragon in "Eragon"?",
       "1" : "Saphira",
       "2" : "Glaedr",
       "3" : "Thorn",
       "4" : "Arya"
     },
     "91" : {
-      "question" : "&quot;The A Team&quot; first aired in the USA and in the UK in what year?",
+      "question" : ""The A Team" first aired in the USA and in the UK in what year?",
       "1" : "1983",
       "2" : "1981",
       "3" : "1985",
@@ -652,14 +653,14 @@
       "4" : "Castle"
     },
     "94" : {
-      "question" : "In the indie farming game &quot;Stardew Valley&quot;, which NPC hates the &quot;prismatic shard&quot; item when received as a gift?",
+      "question" : "In the indie farming game "Stardew Valley", which NPC hates the "prismatic shard" item when received as a gift?",
       "1" : "Haley",
       "2" : "Abigail ",
       "3" : "Elliott",
       "4" : "Lewis"
     },
     "95" : {
-      "question" : "The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?",
+      "question" : "The painting "The Starry Night" by Vincent van Gogh was part of which art movement?",
       "1" : "Post-Impressionism",
       "2" : "Romanticism",
       "3" : "Neoclassical",
@@ -673,7 +674,7 @@
       "4" : "Michael Owen"
     },
     "97" : {
-      "question" : "Who wrote &quot;A Tale of Two Cities&quot;?",
+      "question" : "Who wrote "A Tale of Two Cities"?",
       "1" : "Charles Dickens",
       "2" : "Charles Darwin",
       "3" : "Mark Twain",
@@ -687,7 +688,7 @@
       "4" : "GTA IV and GTA Vice City"
     },
     "99" : {
-      "question" : "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine&#039;s bones and claws?",
+      "question" : "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine's bones and claws?",
       "1" : "Adamantium",
       "2" : "Titanium",
       "3" : "Vibranium",
@@ -708,14 +709,14 @@
       "4" : "Rabbit"
     },
     "102" : {
-      "question" : "When was the movie &#039;Con Air&#039; released?",
+      "question" : "When was the movie 'Con Air' released?",
       "1" : "1997",
       "2" : "1985",
       "3" : "1999",
       "4" : "1990"
     },
     "103" : {
-      "question" : "In the TV show &quot;Rick and Morty&quot;, Rick uses the catchphrase &quot;Wubba Lubba Dub Dub&quot;, which means what in Birdperson?",
+      "question" : "In the TV show "Rick and Morty", Rick uses the catchphrase "Wubba Lubba Dub Dub", which means what in Birdperson?",
       "1" : "I am in great pain, please help me.",
       "2" : "I pray that my life ends soon.",
       "3" : "Lets get this party started!",
@@ -764,14 +765,14 @@
       "4" : "The Ominous Router"
     },
     "110" : {
-      "question" : "On which day did the attempted coup d&#039;etat of 1991 in the Soviet Union begin?",
+      "question" : "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
       "1" : "August 19",
       "2" : "August 21",
       "3" : "December 26",
       "4" : "December 24"
     },
     "111" : {
-      "question" : "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+      "question" : "Which artist released the 2012 single "Harlem Shake", which was used in numerous YouTube videos in 2013?",
       "1" : "Baauer",
       "2" : "RL Grime",
       "3" : "NGHTMRE",
@@ -785,7 +786,7 @@
       "4" : "Diddy Kong"
     },
     "113" : {
-      "question" : "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+      "question" : "The 1939 movie "The Wizard of Oz" contained a horse that changed color, what material did they use to achieve this effect?",
       "1" : "Gelatin",
       "2" : "Dye",
       "3" : "Paint",
@@ -813,14 +814,14 @@
       "4" : "The Monk by the Sea"
     },
     "117" : {
-      "question" : "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+      "question" : "The name of Junko Enoshima's imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
       "1" : "Mukuro Ikusaba",
       "2" : "Ryota Mitarai",
       "3" : "Ultimate Imposter",
       "4" : "Komaru Naegi"
     },
     "118" : {
-      "question" : "In the videogame Bully, what is the protagonist&#039;s last name?",
+      "question" : "In the videogame Bully, what is the protagonist's last name?",
       "1" : "Hopkins",
       "2" : "Smith",
       "3" : "Kowalski",
@@ -834,7 +835,7 @@
       "4" : "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
     },
     "120" : {
-      "question" : "Who are the original creators of Rachet &amp; Clank?",
+      "question" : "Who are the original creators of Rachet & Clank?",
       "1" : "Insomniac Games",
       "2" : "PixelTail Games",
       "3" : "Rare",
@@ -855,7 +856,7 @@
       "4" : "The United States"
     },
     "123" : {
-      "question" : "In the Pok&eacute;mon series, which type is Sudowoodo, the Imitation Pok&eacute;mon?",
+      "question" : "In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?",
       "1" : "Rock",
       "2" : "Grass",
       "3" : "Bug",
@@ -890,56 +891,56 @@
       "4" : "IDSPISPOPD"
     },
     "128" : {
-      "question" : "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+      "question" : "In "Toriko", which of the following foods is knowingly compatible with Toriko?",
       "1" : "Poison Potato",
       "2" : "Mors Oil",
       "3" : "Alpacookie",
       "4" : "Parmesansho Fruit"
     },
     "129" : {
-      "question" : "Who is the creator of the manga series &quot;One Piece&quot;?",
+      "question" : "Who is the creator of the manga series "One Piece"?",
       "1" : "Eiichiro Oda",
       "2" : "Yoshihiro Togashi",
       "3" : "Hayao Miyazaki",
       "4" : "Masashi Kishimoto"
     },
     "130" : {
-      "question" : "In the game &quot;Red Dead Redemption&quot;, what is the name of John Marston&#039;s dog?",
+      "question" : "In the game "Red Dead Redemption", what is the name of John Marston's dog?",
       "1" : "Rufus",
       "2" : "Rutus",
       "3" : "Finn",
       "4" : "Apollo"
     },
     "131" : {
-      "question" : "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
+      "question" : "In "Call Of Duty: Zombies", which map's opening cutscene shows "Richtofen" killing another version of himself?",
       "1" : "The Giant",
       "2" : "Shadows Of Evil",
       "3" : "Der Eisendrache",
       "4" : "Moon"
     },
     "132" : {
-      "question" : "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+      "question" : "In "To Love-Ru: Darkness", which of the girls attempt making a harem for Rito Yuuki?",
       "1" : "Momo Deviluke",
       "2" : "Yami (Golden Darkness)",
       "3" : "Haruna Sairenji",
       "4" : "Mea Kurosaki"
     },
     "133" : {
-      "question" : "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+      "question" : "What is the make and model of the tour vehicles in "Jurassic Park" (1990)?",
       "1" : "1989 Toyota Land Cruiser",
       "2" : "1989 Jeep Wrangler YJ Sahar",
       "3" : "1989 Ford Explorer XLT",
       "4" : "Mercedes M-Class"
     },
     "134" : {
-      "question" : "In &quot;Highschool DxD&quot;, what is the name of the item some humans are born with?",
+      "question" : "In "Highschool DxD", what is the name of the item some humans are born with?",
       "1" : "Sacred Gear",
       "2" : "Imperial Arm",
       "3" : "Hallowed Relic",
       "4" : "Blessed Artifact"
     },
     "135" : {
-      "question" : "In what year was Pok&eacute;mon Diamond &amp; Pearl released in Japan?",
+      "question" : "In what year was Pokémon Diamond & Pearl released in Japan?",
       "1" : "2006",
       "2" : "2009",
       "3" : "2007",
@@ -960,25 +961,25 @@
       "4" : "Europe"
     },
     "138" : {
-      "question" : "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+      "question" : "What is the species of the "Predator" in the 1987 movie "Predator"?",
       "1" : "Yautja",
       "2" : "Xenomorph",
       "3" : "Praetorian",
       "4" : "Phocrex"
     },
     "139" : {
-      "question" : "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
+      "question" : "Which card is on the cover of the Beta rulebook of "Magic: The Gathering"?",
       "1" : "Bog Wraith",
       "2" : "Island",
       "3" : "Rock Hydra",
       "4" : "Elvish Archers"
     },
     "140" : {
-      "question" : "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+      "question" : "Which gaming series includes "The Diabolical Box" and "The Curious Village"?",
       "1" : "Professor Layton",
       "2" : "Persona",
       "3" : "Etrian Odyssey",
-      "4" : "Sam &amp; Max"
+      "4" : "Sam & Max"
     },
     "141" : {
       "question" : "What are the names of the Ice Climbers in the video game Ice Climber?",
@@ -995,7 +996,7 @@
       "4" : "Gorilla Beringei Beringei"
     },
     "143" : {
-      "question" : "Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?",
+      "question" : "Which Japanese music group was formed to produce theme music for the anime "Guilty Crown"?",
       "1" : "Egoist",
       "2" : "Goose house",
       "3" : "Babymetal",
@@ -1016,42 +1017,42 @@
       "4" : "Abraham Lincoln"
     },
     "146" : {
-      "question" : "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+      "question" : "Cesar Romero played which iconic Batman villain from the 1960's TV show?",
       "1" : "The Joker",
       "2" : "The Penguin",
       "3" : "The Riddler",
       "4" : "Mr. Freeze"
     },
     "147" : {
-      "question" : "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+      "question" : "The Nike apparel and footwear brand takes it's name from the Greek goddess of what?",
       "1" : "Victory",
       "2" : "Courage",
       "3" : "Strength",
       "4" : "Honor"
     },
     "148" : {
-      "question" : "Who is Sora&#039;s Nobody in Kingdom Hearts?",
+      "question" : "Who is Sora's Nobody in Kingdom Hearts?",
       "1" : "Roxas",
       "2" : "Riku",
       "3" : "Kairi",
       "4" : "Mickey"
     },
     "149" : {
-      "question" : "What is Homestuck character Gamzee&#039;s last name?",
+      "question" : "What is Homestuck character Gamzee's last name?",
       "1" : "Makara",
       "2" : "Makera",
       "3" : "Makare",
       "4" : "Makrea"
     },
     "150" : {
-      "question" : "In the show &quot;The Office&quot; who does Michael Scott eventually end up with?",
+      "question" : "In the show "The Office" who does Michael Scott eventually end up with?",
       "1" : "Holly Flax",
       "2" : "Angela Martin",
       "3" : "Jan Levinson",
       "4" : "Pam Beesly"
     },
     "151" : {
-      "question" : "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+      "question" : "Which German sportswear company's logo is the 'Formstripe'?",
       "1" : "Puma",
       "2" : "Nike",
       "3" : "Adidas",
@@ -1065,14 +1066,14 @@
       "4" : "Alberta"
     },
     "153" : {
-      "question" : "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
+      "question" : "What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
       "1" : "314.15 Inches",
       "2" : "380.1215 Inches",
       "3" : "3141.5 Inches",
       "4" : "1256.6 Inches"
     },
     "154" : {
-      "question" : "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+      "question" : "The 'Islets of Langerhans' is found in which human organ?",
       "1" : "Pancreas",
       "2" : "Kidney",
       "3" : "Liver",
@@ -1114,7 +1115,7 @@
       "4" : "102"
     },
     "160" : {
-      "question" : "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
+      "question" : "What is the name of the currency in the "Animal Crossing" series?",
       "1" : "Bells",
       "2" : "Sea Shells",
       "3" : "Leaves",
@@ -1128,14 +1129,14 @@
       "4" : "George Saunders"
     },
     "162" : {
-      "question" : "Which one of the following actors did not voice a character in &quot;Saints Row: The Third&quot;?",
+      "question" : "Which one of the following actors did not voice a character in "Saints Row: The Third"?",
       "1" : "Ron Jeremy",
       "2" : "Sasha Grey",
       "3" : "Burt Reynolds",
       "4" : "Hulk Hogan"
     },
     "163" : {
-      "question" : "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+      "question" : "In which order do you need to hit some Deku Scrubs to open the first boss door in "Ocarina of Time"?",
       "1" : "2, 3, 1",
       "2" : "1, 2, 3",
       "3" : "1, 3, 2",
@@ -1156,7 +1157,7 @@
       "4" : "Belgium"
     },
     "166" : {
-      "question" : "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
+      "question" : "The term "battery" to describe an electrical storage device was coined by?",
       "1" : "Benjamin Franklin",
       "2" : "Nikola Tesla",
       "3" : "Luigi Galvani",
@@ -1177,7 +1178,7 @@
       "4" : "Cat Urine"
     },
     "169" : {
-      "question" : "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+      "question" : "Which of these games includes the phrase "Do not pass Go, do not collect $200"?",
       "1" : "Monopoly",
       "2" : "Pay Day",
       "3" : "Cluedo",
@@ -1199,20 +1200,20 @@
     },
     "172" : {
       "question" : "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
-      "1" : "Clarence &quot;Razor&quot; Callahan",
-      "2" : "Hector &quot;Ming&quot; Domingo",
-      "3" : "Toru &quot;Bull&quot; Sato",
-      "4" : "Karl &quot;Baron&quot; Smit"
+      "1" : "Clarence "Razor" Callahan",
+      "2" : "Hector "Ming" Domingo",
+      "3" : "Toru "Bull" Sato",
+      "4" : "Karl "Baron" Smit"
     },
     "173" : {
-      "question" : "What is the name of the main character in &quot;Life is Strange&quot;?",
+      "question" : "What is the name of the main character in "Life is Strange"?",
       "1" : "Maxine Caulfield",
       "2" : "Victoria Chase",
       "3" : "Stella Hill",
       "4" : "Chloe Price"
     },
     "174" : {
-      "question" : "What is Grumpy Cat&#039;s real name?",
+      "question" : "What is Grumpy Cat's real name?",
       "1" : "Tardar Sauce",
       "2" : "Sauce",
       "3" : "Minnie",
@@ -1240,7 +1241,7 @@
       "4" : "Bentley"
     },
     "178" : {
-      "question" : "In what year was the game &quot;Eliminator&quot; released?",
+      "question" : "In what year was the game "Eliminator" released?",
       "1" : "1998",
       "2" : "2000",
       "3" : "1999",
@@ -1268,21 +1269,21 @@
       "4" : "Porto Santo"
     },
     "182" : {
-      "question" : "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+      "question" : "Which of the stands from "JoJo's Bizarre Adventure" mimics the likeness of a tomato?",
       "1" : "Pearl Jam",
       "2" : "Red Hot Chili Pepper",
       "3" : "Cream Starter",
       "4" : "Nut King Call"
     },
     "183" : {
-      "question" : "How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+      "question" : "How many paint and pastel versions of "The Scream" is Norwegian painter Edvard Munch believed to have produced?",
       "1" : "4",
       "2" : "1",
       "3" : "3",
       "4" : "2"
     },
     "184" : {
-      "question" : "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+      "question" : "Which "Call Of Duty: Zombies" map introduced the "Staffs Of The Ancients"?",
       "1" : "Origins",
       "2" : "Shangri-La",
       "3" : "Revelations",
@@ -1303,14 +1304,14 @@
       "4" : "Belts"
     },
     "187" : {
-      "question" : "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
+      "question" : "Some of the "Fallen Empires" cards from "Magic: The Gathering" were misprinted on the backs of which other card game?",
       "1" : "Wyvern",
       "2" : "Pokemon",
       "3" : "Dominion",
       "4" : "Yu-Gi-Oh"
     },
     "188" : {
-      "question" : "Which animation studio animated &quot;To Love-Ru&quot;?",
+      "question" : "Which animation studio animated "To Love-Ru"?",
       "1" : "Xebec",
       "2" : "Trigger",
       "3" : "Sunrise",
@@ -1324,7 +1325,7 @@
       "4" : "Liberty"
     },
     "190" : {
-      "question" : "What is the main character&#039;s name in &quot;Braid&quot;?",
+      "question" : "What is the main character's name in "Braid"?",
       "1" : "Tim",
       "2" : "Boregard",
       "3" : "James",
@@ -1366,11 +1367,11 @@
       "4" : "Dead Money"
     },
     "196" : {
-      "question" : "The word &quot;abulia&quot; means which of the following?",
+      "question" : "The word "abulia" means which of the following?",
       "1" : "The inability to make decisions",
       "2" : "The inability to stand up",
       "3" : "The inability to concentrate on anything",
-      "4" : "A feverish desire to rip one&#039;s clothes off"
+      "4" : "A feverish desire to rip one's clothes off"
     },
     "197" : {
       "question" : "What country hosted the 2014 Winter Olympics?",
@@ -1387,14 +1388,14 @@
       "4" : "Macedonia"
     },
     "199" : {
-      "question" : "What system was &quot;Touhou: Highly Responsive to Prayers&quot; released on?",
+      "question" : "What system was "Touhou: Highly Responsive to Prayers" released on?",
       "1" : "PC-98",
       "2" : "OSX 10.9.5",
       "3" : "Windows ME",
       "4" : "Windows 98"
     },
     "200" : {
-      "question" : "Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?",
+      "question" : "Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?",
       "1" : "Elvis Presley",
       "2" : "Johnny Cash",
       "3" : "Hank Williams, Sr.",
@@ -1443,7 +1444,7 @@
       "4" : "36"
     },
     "207" : {
-      "question" : "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+      "question" : "What word represents the letter 'T' in the NATO phonetic alphabet?",
       "1" : "Tango",
       "2" : "Target",
       "3" : "Taxi",
@@ -1457,7 +1458,7 @@
       "4" : "Elamites"
     },
     "209" : {
-      "question" : "One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?",
+      "question" : "One of the deadliest pandemics, the "Spanish Flu", killed off what percentage of the human world population at the time?",
       "1" : "3 to 6 percent",
       "2" : "6 to 10 percent",
       "3" : "1 to 3 percent",
@@ -1471,14 +1472,14 @@
       "4" : "Poseidon"
     },
     "211" : {
-      "question" : "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+      "question" : "What is the fastest speed possible in Trackmania²: Stadium?",
       "1" : "1000  km/h",
       "2" : "500 km/h",
       "3" : "320 km/h",
       "4" : "100 km/h"
     },
     "212" : {
-      "question" : "Who is the musical director for the award winning musical &quot;Hamilton&quot;?",
+      "question" : "Who is the musical director for the award winning musical "Hamilton"?",
       "1" : "Alex Lacamoire",
       "2" : "Lin-Manuel Miranda",
       "3" : "Renee Elise-Goldberry",
@@ -1506,7 +1507,7 @@
       "4" : "1939"
     },
     "216" : {
-      "question" : "What year did the game &quot;Overwatch&quot; enter closed beta?",
+      "question" : "What year did the game "Overwatch" enter closed beta?",
       "1" : "2015",
       "2" : "2013",
       "3" : "2011",
@@ -1520,21 +1521,21 @@
       "4" : "Nuclear"
     },
     "218" : {
-      "question" : "How many seasons did &quot;Stargate SG-1&quot; have?",
+      "question" : "How many seasons did "Stargate SG-1" have?",
       "1" : "10",
       "2" : "3",
       "3" : "7",
       "4" : "12"
     },
     "219" : {
-      "question" : "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+      "question" : "Which one of these songs did the group "Men At Work" NOT make?",
       "1" : "Safety Dance",
       "2" : "Down Under",
       "3" : "Who Can It Be Now?",
-      "4" : "It&#039;s a Mistake"
+      "4" : "It's a Mistake"
     },
     "220" : {
-      "question" : "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+      "question" : "In CSS, which of these values CANNOT be used with the "position" property?",
       "1" : "center",
       "2" : "static",
       "3" : "absolute",
@@ -1548,7 +1549,7 @@
       "4" : "Daedalus"
     },
     "222" : {
-      "question" : "What is the surname of the character Daryl in AMC&#039;s show The Walking Dead?",
+      "question" : "What is the surname of the character Daryl in AMC's show The Walking Dead?",
       "1" : "Dixon",
       "2" : "Grimes",
       "3" : "Dickinson",
@@ -1576,7 +1577,7 @@
       "4" : "Montreal Impact"
     },
     "226" : {
-      "question" : "In the title of the game &quot;Luigi&#039;s Mansion&quot;, what is the only letter to not appear with a pair of eyes in it?",
+      "question" : "In the title of the game "Luigi's Mansion", what is the only letter to not appear with a pair of eyes in it?",
       "1" : "s",
       "2" : "n",
       "3" : "i",
@@ -1586,11 +1587,11 @@
       "question" : "What is the capital of Seychelles?",
       "1" : "Victoria",
       "2" : "Luanda",
-      "3" : "N&#039;Djamena",
+      "3" : "N'Djamena",
       "4" : "Tripoli"
     },
     "228" : {
-      "question" : "In what year was &quot;Super Mario Sunshine&quot; released?",
+      "question" : "In what year was "Super Mario Sunshine" released?",
       "1" : "2002",
       "2" : "2003",
       "3" : "2000",
@@ -1611,7 +1612,7 @@
       "4" : "The Socs"
     },
     "231" : {
-      "question" : "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+      "question" : "In "Star Trek", what is the Klingon delicacy of "gagh" made from?",
       "1" : "Serpent worms",
       "2" : "Earthworms",
       "3" : "Spaghetti noodles",
@@ -1625,42 +1626,42 @@
       "4" : "224 Days"
     },
     "233" : {
-      "question" : "Which of the stands from &quot;JoJo&#039;s Bizarre Adventure&quot; mimics the likeness of a tomato?",
+      "question" : "Which of the stands from "JoJo's Bizarre Adventure" mimics the likeness of a tomato?",
       "1" : "Pearl Jam",
       "2" : "Red Hot Chili Pepper",
       "3" : "Cream Starter",
       "4" : "Nut King Call"
     },
     "234" : {
-      "question" : "The &quot;To Love-Ru&quot; Manga was started in what year?",
+      "question" : "The "To Love-Ru" Manga was started in what year?",
       "1" : "2006",
       "2" : "2007",
       "3" : "2004",
       "4" : "2005"
     },
     "235" : {
-      "question" : "In &quot;Jurassic World&quot;, which company purchases InGen and creates Jurassic World?",
+      "question" : "In "Jurassic World", which company purchases InGen and creates Jurassic World?",
       "1" : "Masrani Global Corporation ",
       "2" : "Biology Synthetics Technologies",
       "3" : "International Genetics Incorporated",
       "4" : "International Genetic Technologies"
     },
     "236" : {
-      "question" : "What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? ",
+      "question" : "What is the name of Joel's daughter in the game, "The Last of Us"? ",
       "1" : "Sarah",
       "2" : "Ellie",
       "3" : "Tess",
       "4" : "Marlene"
     },
     "237" : {
-      "question" : "&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+      "question" : ""Exile" and "Revelations" were the third and fourth installments of which PC game series?",
       "1" : "Myst",
       "2" : "Shivers",
       "3" : "Doom",
       "4" : "Tropico"
     },
     "238" : {
-      "question" : "Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?",
+      "question" : "Which animation studio produced the anime adaptation of "xxxHolic"?",
       "1" : "Production I.G",
       "2" : "Sunrise",
       "3" : "Xebec",
@@ -1668,10 +1669,10 @@
     },
     "239" : {
       "question" : "In which fast food chain can you order a Jamocha Shake?",
-      "1" : "Arby&#039;s",
-      "2" : "McDonald&#039;s",
+      "1" : "Arby's",
+      "2" : "McDonald's",
       "3" : "Burger King",
-      "4" : "Wendy&#039;s"
+      "4" : "Wendy's"
     },
     "240" : {
       "question" : "Coulrophobia is the irrational fear of what?",
@@ -1681,7 +1682,7 @@
       "4" : "Tunnels"
     },
     "241" : {
-      "question" : "On the NBC show Community what was Star Burns&#039; real name?",
+      "question" : "On the NBC show Community what was Star Burns' real name?",
       "1" : "Alex",
       "2" : "Todd",
       "3" : "Neal",
@@ -1709,28 +1710,28 @@
       "4" : "Stanley Kubrick"
     },
     "245" : {
-      "question" : "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+      "question" : "Which punk rock band released hit songs such as "Californication", "Can't Stop" and "Under the Bridge"?",
       "1" : "Red Hot Chilli Peppers",
       "2" : "Green Day",
       "3" : "Linkin Park",
       "4" : "Foo Fighters"
     },
     "246" : {
-      "question" : "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+      "question" : "In "PUBATTLEGROUNDS" which ammo type does the M24 use?",
       "1" : "7.62mm",
       "2" : "5.56mm",
       "3" : "9mm",
       "4" : ".300 Magnum"
     },
     "247" : {
-      "question" : "In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?",
+      "question" : "In the show "Dragonball Z", what is the name of Cell's most powerful attack?",
       "1" : "Solar Kamehameha",
       "2" : "Super Kamehameha",
       "3" : "Cell Kamehameha",
       "4" : "Android Kamehameha"
     },
     "248" : {
-      "question" : "In the show &#039;Doctor Who&#039;, what is the name of the time-capsule model stolen by &#039;the Doctor&#039;?",
+      "question" : "In the show 'Doctor Who', what is the name of the time-capsule model stolen by 'the Doctor'?",
       "1" : "TT Type 40, Mark 3 (TARDIS)",
       "2" : "TT Type 1, Mark 3 (TARDIS)",
       "3" : "TT Type 40, Mark 5 (TARDIS)",
@@ -1758,21 +1759,21 @@
       "4" : "Borderlands"
     },
     "252" : {
-      "question" : "Which track by &quot;Massive Attack&quot; is used for the theme of &quot;House&quot;? ",
+      "question" : "Which track by "Massive Attack" is used for the theme of "House"? ",
       "1" : "Teardrop",
       "2" : "Protection",
       "3" : "Angel",
       "4" : "Black Milk"
     },
     "253" : {
-      "question" : "Who played Stan&#039;s dog in the South Park episode &quot;Big Gay Al&#039;s Big Gay Boat Ride&quot;?",
+      "question" : "Who played Stan's dog in the South Park episode "Big Gay Al's Big Gay Boat Ride"?",
       "1" : "George Clooney",
       "2" : "Jay Leno",
       "3" : "Matt Stone",
       "4" : "Robert Smith"
     },
     "254" : {
-      "question" : "Which character is from &quot;Splatoon&quot;?",
+      "question" : "Which character is from "Splatoon"?",
       "1" : "Marie",
       "2" : "Cyrus",
       "3" : "Palutena",
@@ -1795,19 +1796,19 @@
     "257" : {
       "question" : "Which city is the capital of Switzerland?",
       "1" : "Bern",
-      "2" : "Z&uuml;rich",
+      "2" : "Zürich",
       "3" : "Frankfurt",
       "4" : "Wien"
     },
     "258" : {
-      "question" : "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+      "question" : "The theme for the popular science fiction series "Doctor Who" was composed by who?",
       "1" : "Ron Grainer",
       "2" : "Murray Gold",
       "3" : "Delia Derbyshire",
       "4" : "Peter Howell"
     },
     "259" : {
-      "question" : "Which of these levels does NOT appear in the console/PC versions of the game &quot;Sonic Generations&quot;?",
+      "question" : "Which of these levels does NOT appear in the console/PC versions of the game "Sonic Generations"?",
       "1" : "Mushroom Hill",
       "2" : "City Escape",
       "3" : "Planet Wisp",
@@ -1815,10 +1816,10 @@
     },
     "260" : {
       "question" : "What is the 15th letter of the Greek alphabet?",
-      "1" : "Omicron (&Omicron;)",
-      "2" : "Sigma (&Sigma;)",
-      "3" : "Pi (&Pi;)",
-      "4" : "Nu (&Nu;)"
+      "1" : "Omicron (Ο)",
+      "2" : "Sigma (Σ)",
+      "3" : "Pi (π)",
+      "4" : "Nu (ν)"
     },
     "261" : {
       "question" : "All of the following countries have official claims to territory in Antartica EXCEPT:",
@@ -1849,14 +1850,14 @@
       "4" : "Westendstrasse 1"
     },
     "265" : {
-      "question" : "Who is the founder of &quot;The Lego Group&quot;?",
+      "question" : "Who is the founder of "The Lego Group"?",
       "1" : "Ole Kirk Christiansen",
       "2" : " Jens Niels Christiansen",
       "3" : "Kirstine Christiansen",
       "4" : " Gerhardt Kirk Christiansen"
     },
     "266" : {
-      "question" : "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+      "question" : "Who is the leader of Team Instinct in Pokémon Go?",
       "1" : "Spark",
       "2" : "Candela",
       "3" : "Blanche",
@@ -1891,7 +1892,7 @@
       "4" : "1971"
     },
     "271" : {
-      "question" : "In the game &quot;Persona 4&quot;, what is the canonical name of the protagonist?",
+      "question" : "In the game "Persona 4", what is the canonical name of the protagonist?",
       "1" : "Yu Narukami",
       "2" : "Chino Mashido",
       "3" : "Tunki Sunada",
@@ -1899,7 +1900,7 @@
     },
     "272" : {
       "question" : "What is the last song on the first Panic! At the Disco album?",
-      "1" : "Build God, Then We&#039;ll Talk",
+      "1" : "Build God, Then We'll Talk",
       "2" : "Nails for Breakfast, Tacks for Snacks",
       "3" : "I Write Sins Not Tragedies",
       "4" : "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
@@ -1912,16 +1913,16 @@
       "4" : "Cow"
     },
     "274" : {
-      "question" : "Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?",
-      "1" : "Jordan &quot;Thermite&quot; Trace",
-      "2" : "Eliza &quot;Ash&quot; Cohen",
-      "3" : "Seamus &quot;Sledge&quot; Cowden",
-      "4" : "Dominic &quot;Bandit&quot; Brunsmeier"
+      "question" : "Which of these operators from "Tom Clancy's Rainbow Six Siege" has the ability to damage reinforced walls?",
+      "1" : "Jordan "Thermite" Trace",
+      "2" : "Eliza "Ash" Cohen",
+      "3" : "Seamus "Sledge" Cowden",
+      "4" : "Dominic "Bandit" Brunsmeier"
     },
     "275" : {
-      "question" : "The character Plum from &quot;No Game No Life&quot; is of what race?",
+      "question" : "The character Plum from "No Game No Life" is of what race?",
       "1" : "Dhampir",
-      "2" : "Fl&uuml;gel",
+      "2" : "Flügel",
       "3" : "Imanity",
       "4" : "Seiren"
     },
@@ -1933,7 +1934,7 @@
       "4" : "2004"
     },
     "277" : {
-      "question" : "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+      "question" : "In "One Piece", what does "the Pirate King" mean to the captain of the Straw Hat Pirates?",
       "1" : "Freedom",
       "2" : "Promise",
       "3" : "Adventure",
@@ -1947,42 +1948,42 @@
       "4" : "Fast RMX"
     },
     "279" : {
-      "question" : "In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?",
+      "question" : "In the game "Brawlhalla", what species is the character Bö dvar is?",
       "1" : "Half Human / Half Bear",
       "2" : "A Human",
       "3" : "Half Wolf / Half Bear",
       "4" : "Half Tiger /  Half Human"
     },
     "280" : {
-      "question" : "In &quot;Rick and Morty&quot;, from which dimension do Rick and Morty originate from?",
+      "question" : "In "Rick and Morty", from which dimension do Rick and Morty originate from?",
       "1" : "C-137",
       "2" : "J1977",
       "3" : "C-136",
       "4" : "C500-a"
     },
     "281" : {
-      "question" : "When was the video game publisher &quot;Ubisoft&quot; founded ?",
+      "question" : "When was the video game publisher "Ubisoft" founded ?",
       "1" : "March 1986",
       "2" : "April 1990",
       "3" : "June 2001",
       "4" : "August 1956"
     },
     "282" : {
-      "question" : "How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+      "question" : "How many paint and pastel versions of "The Scream" is Norwegian painter Edvard Munch believed to have produced?",
       "1" : "4",
       "2" : "1",
       "3" : "3",
       "4" : "2"
     },
     "283" : {
-      "question" : "In &quot;To Love-Ru: Darkness&quot;, which of the girls attempt making a harem for Rito Yuuki?",
+      "question" : "In "To Love-Ru: Darkness", which of the girls attempt making a harem for Rito Yuuki?",
       "1" : "Momo Deviluke",
       "2" : "Yami (Golden Darkness)",
       "3" : "Haruna Sairenji",
       "4" : "Mea Kurosaki"
     },
     "284" : {
-      "question" : "Who played &quot;Charlie Price&quot; in the musical &quot;Kinky Boots&quot; on Broadway in New York from May 26th - Aug 6th 2017?",
+      "question" : "Who played "Charlie Price" in the musical "Kinky Boots" on Broadway in New York from May 26th - Aug 6th 2017?",
       "1" : "Brendon Urie",
       "2" : "Ed Sheeren",
       "3" : "Tom Cruise",
@@ -2003,14 +2004,14 @@
       "4" : "November 18, 2014"
     },
     "287" : {
-      "question" : "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+      "question" : "What is the species of the "Predator" in the 1987 movie "Predator"?",
       "1" : "Yautja",
       "2" : "Xenomorph",
       "3" : "Praetorian",
       "4" : "Phocrex"
     },
     "288" : {
-      "question" : "How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?",
+      "question" : "How many "JoJos" that are protagonists are there in the series "Jojo's Bizarre Adventure"?",
       "1" : "8",
       "2" : "6",
       "3" : "4",
@@ -2019,7 +2020,7 @@
     "289" : {
       "question" : "What is Tasmania?",
       "1" : "An Australian State",
-      "2" : "A flavor of Ben and Jerry&#039;s ice-cream",
+      "2" : "A flavor of Ben and Jerry's ice-cream",
       "3" : "A Psychological Disorder",
       "4" : "The Name of a Warner Brothers Cartoon Character"
     },
@@ -2052,21 +2053,21 @@
       "4" : "5"
     },
     "294" : {
-      "question" : "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+      "question" : "Which King of England was faced with the Peasants' Revolt in 1381?",
       "1" : "Richard II",
       "2" : "Edward III",
       "3" : "Edward II",
       "4" : "Henry IV"
     },
     "295" : {
-      "question" : "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+      "question" : "Cesar Romero played which iconic Batman villain from the 1960's TV show?",
       "1" : "The Joker",
       "2" : "The Penguin",
       "3" : "The Riddler",
       "4" : "Mr. Freeze"
     },
     "296" : {
-      "question" : "In Left 4 Dead, what is the character Bill&#039;s last name?",
+      "question" : "In Left 4 Dead, what is the character Bill's last name?",
       "1" : "Overbeck",
       "2" : "Fish",
       "3" : "Roberts",
@@ -2080,7 +2081,7 @@
       "4" : "Clutterfunk"
     },
     "298" : {
-      "question" : "Which Nazi General was known as the &quot;Desert Fox&quot;?",
+      "question" : "Which Nazi General was known as the "Desert Fox"?",
       "1" : "Erwin Rommel",
       "2" : "Gerd von Rundstadt",
       "3" : "Wilhelm Keitel",
@@ -2096,7 +2097,7 @@
     "300" : {
       "question" : "What is the name of the race horse that Tony Soprano becomes attached to?",
       "1" : "Pie-O-My",
-      "2" : "Man o&#039; war",
+      "2" : "Man o' war",
       "3" : "Bada Bing",
       "4" : "Honest Earnings"
     },
@@ -2115,7 +2116,7 @@
       "4" : "Singapore"
     },
     "303" : {
-      "question" : "Who is Sonic&#039;s sidekick?",
+      "question" : "Who is Sonic's sidekick?",
       "1" : "Tails",
       "2" : "Shadow",
       "3" : "Amy",
@@ -2129,18 +2130,18 @@
       "4" : "Quake"
     },
     "305" : {
-      "question" : "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
+      "question" : "Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?",
       "1" : "Les Paul Standard",
       "2" : "Fender Stratocaster",
       "3" : "LsL Mongrel",
       "4" : "Gretsch Falcon"
     },
     "306" : {
-      "question" : "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane&#039;s conquests?",
+      "question" : "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane's conquests?",
       "1" : "5%",
       "2" : "1%",
       "3" : "3%",
-      "4" : "&lt;1%"
+      "4" : "<1%"
     },
     "307" : {
       "question" : "Which Russian oblast forms a border with Poland?",
@@ -2174,11 +2175,11 @@
       "question" : "Which of these is NOT the name of an album released by American rapper Viper?",
       "1" : "The Life of Pablo",
       "2" : "Kill Urself My Man",
-      "3" : "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
-      "4" : "Yo Wife Handcuffin&#039; Me"
+      "3" : "You'll Cowards Don't Even Smoke Crack",
+      "4" : "Yo Wife Handcuffin' Me"
     },
     "312" : {
-      "question" : "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+      "question" : "What year was the Disney film "A Goofy Movie" released?",
       "1" : "1995",
       "2" : "1999",
       "3" : "2001",
@@ -2199,35 +2200,35 @@
       "4" : "Sodapoppin"
     },
     "315" : {
-      "question" : "What are rhino&#039;s horn made of?",
+      "question" : "What are rhino's horn made of?",
       "1" : "Keratin",
       "2" : "Bone",
       "3" : "Ivory",
       "4" : "Skin"
     },
     "316" : {
-      "question" : "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+      "question" : "In the 1994 movie "Speed", what is the minimum speed the bus must go to prevent to bomb from exploding?",
       "1" : "50 mph",
       "2" : "60 mph",
       "3" : "40 mph",
       "4" : "70 mph"
     },
     "317" : {
-      "question" : "Who is the founder of &quot;The Lego Group&quot;?",
+      "question" : "Who is the founder of "The Lego Group"?",
       "1" : "Ole Kirk Christiansen",
       "2" : " Jens Niels Christiansen",
       "3" : "Kirstine Christiansen",
       "4" : " Gerhardt Kirk Christiansen"
     },
     "318" : {
-      "question" : "How many seasons did &quot;Stargate SG-1&quot; have?",
+      "question" : "How many seasons did "Stargate SG-1" have?",
       "1" : "10",
       "2" : "3",
       "3" : "7",
       "4" : "12"
     },
     "319" : {
-      "question" : "Which of the following is NOT a summon in the game &quot;South Park: The Stick of Truth&quot;?",
+      "question" : "Which of the following is NOT a summon in the game "South Park: The Stick of Truth"?",
       "1" : "Towelie",
       "2" : "Jesus",
       "3" : "Mr. Hankey",
@@ -2262,7 +2263,7 @@
       "4" : "1420"
     },
     "324" : {
-      "question" : "Who was featured in the song &quot;Words&quot; by Feint? ",
+      "question" : "Who was featured in the song "Words" by Feint? ",
       "1" : "Laura Brehm",
       "2" : "Anna Yvette ",
       "3" : "Danyka Nadeau",
@@ -2304,7 +2305,7 @@
       "4" : "3"
     },
     "330" : {
-      "question" : "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+      "question" : "In Michael Crichton's novel "Jurassic Park", John Hammond meets his demise at the claws of which dinosaur?",
       "1" : "Procompsognathus",
       "2" : "Dilophosaurus",
       "3" : "Tyrannosaurus Rex",
@@ -2318,35 +2319,35 @@
       "4" : "BAMF"
     },
     "332" : {
-      "question" : "In the &quot;Little Lost Girl&quot; Easter Egg in Call of Duty: Black Ops II, what&#039;s the last step required for the achievement?",
+      "question" : "In the "Little Lost Girl" Easter Egg in Call of Duty: Black Ops II, what's the last step required for the achievement?",
       "1" : "Raise Hell",
       "2" : "Freedom",
       "3" : "Skewer the Winged Beast",
       "4" : "Ascend from Darkness"
     },
     "333" : {
-      "question" : "The French mathematician &Eacute;variste Galois is primarily known for his work in which?",
+      "question" : "The French mathematician Évariste Galois is primarily known for his work in which?",
       "1" : "Galois Theory",
-      "2" : "Galois&#039; Continued Fractions",
-      "3" : "Galois&#039; Method for PDE&#039;s ",
+      "2" : "Galois' Continued Fractions",
+      "3" : "Galois' Method for PDE's ",
       "4" : "Abelian Integration"
     },
     "334" : {
-      "question" : "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+      "question" : "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
       "1" : "Andrew Scott Reisse",
       "2" : "Nate Mitchell",
       "3" : "Jack McCauley",
       "4" : "Palmer Luckey"
     },
     "335" : {
-      "question" : "What animal is featured in &quot;Bloons TD Battles&quot;?",
+      "question" : "What animal is featured in "Bloons TD Battles"?",
       "1" : "Monkeys",
       "2" : "Alligators",
       "3" : "Pigeons",
       "4" : "Lizards"
     },
     "336" : {
-      "question" : "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+      "question" : "Which of the following actors portrayed the Ninth Doctor in the British television show "Doctor Who"?",
       "1" : "Christopher Eccleston",
       "2" : "David Tennant",
       "3" : "Matt Smith",
@@ -2402,7 +2403,7 @@
       "4" : "210 AD"
     },
     "344" : {
-      "question" : "During World War I, which nation&#039;s monarchs were blood related?",
+      "question" : "During World War I, which nation's monarchs were blood related?",
       "1" : "England, Germany, Russia",
       "2" : "France, Russia, Germany",
       "3" : "Serbia, Russia, Croatia",
@@ -2430,14 +2431,14 @@
       "4" : "Otherworld"
     },
     "348" : {
-      "question" : "Which year was the album &quot;Year of the Snitch&quot; by Death Grips released?",
+      "question" : "Which year was the album "Year of the Snitch" by Death Grips released?",
       "1" : "2018",
       "2" : "2013",
       "3" : "2017",
       "4" : "2011"
     },
     "349" : {
-      "question" : "Who wrote the play &#039;Angels in America&#039;?",
+      "question" : "Who wrote the play 'Angels in America'?",
       "1" : "Tony Kusher",
       "2" : "Tom Stoppard",
       "3" : "Matthew Lopez",
@@ -2451,7 +2452,7 @@
       "4" : "Benjamin Daimio"
     },
     "351" : {
-      "question" : "What was the punishment for Sysiphus&#039;s craftiness?",
+      "question" : "What was the punishment for Sysiphus's craftiness?",
       "1" : "Cursed to roll a boulder up a hill for eternity.",
       "2" : "Tied to a boulder for eternity, being pecked by birds.",
       "3" : "Standing in a lake filled with water he could not drink.",
@@ -2475,7 +2476,7 @@
       "question" : "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
       "1" : "Aragon",
       "2" : "Galicia",
-      "3" : "Le&oacute;n",
+      "3" : "León",
       "4" : "Navarre"
     },
     "355" : {
@@ -2486,7 +2487,7 @@
       "4" : "Herefordshire"
     },
     "356" : {
-      "question" : "The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+      "question" : "The map featured in Arma 3 named "Altis" is based off of what Greek island?",
       "1" : "Lemnos",
       "2" : "Ithaca",
       "3" : "Naxos",
@@ -2529,7 +2530,7 @@
     },
     "362" : {
       "question" : "Who is the chemical element Curium named after?",
-      "1" : "Marie &amp; Pierre Curie",
+      "1" : "Marie & Pierre Curie",
       "2" : "The Curiosity Rover",
       "3" : "Curious George",
       "4" : "Stephen Curry"
@@ -2560,7 +2561,7 @@
       "1" : "Victoria",
       "2" : "Ip Man 2",
       "3" : "The Bourne Legacy",
-      "4" : "L&eacute;on: The Professional"
+      "4" : "Léon: The Professional"
     },
     "367" : {
       "question" : "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
@@ -2591,7 +2592,7 @@
       "4" : "Purple"
     },
     "371" : {
-      "question" : "In the videogame Bully, what is the protagonist&#039;s last name?",
+      "question" : "In the videogame Bully, what is the protagonist's last name?",
       "1" : "Hopkins",
       "2" : "Smith",
       "3" : "Kowalski",
@@ -2605,11 +2606,11 @@
       "4" : "100"
     },
     "373" : {
-      "question" : "What was the world&#039;s first handheld game device?",
+      "question" : "What was the world's first handheld game device?",
       "1" : "Mattel Auto Race",
       "2" : "Game Boy",
       "3" : "Microvision",
-      "4" : "Game &amp; Watch"
+      "4" : "Game & Watch"
     },
     "374" : {
       "question" : "In WarioWare: Smooth Moves, which one of these is NOT a Form?",
@@ -2661,64 +2662,64 @@
       "4" : "The Mask (The Mask, TV Series)"
     },
     "381" : {
-      "question" : "The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?",
+      "question" : "The heroine of "Humanity Has Declined" is a mediator between humans and what?",
       "1" : "Fairies",
       "2" : "Elves",
       "3" : "The Earth",
       "4" : "Animals"
     },
     "382" : {
-      "question" : "Satella in &quot;Re:Zero&quot; is the witch of what?",
+      "question" : "Satella in "Re:Zero" is the witch of what?",
       "1" : "Envy",
       "2" : "Pride",
       "3" : "Sloth",
       "4" : "Wrath"
     },
     "383" : {
-      "question" : "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+      "question" : "How much did the indie game "Cave Story" cost when it was first released in 2004?",
       "1" : "$0 USD",
       "2" : "$5 USD",
       "3" : "$10 USD",
       "4" : "$15 USD"
     },
     "384" : {
-      "question" : "What is not a playable race in &quot;Final Fantasy XIV: A Realm Reborn&quot;?",
+      "question" : "What is not a playable race in "Final Fantasy XIV: A Realm Reborn"?",
       "1" : "Hume",
-      "2" : "Miqo&#039;te",
+      "2" : "Miqo'te",
       "3" : "Lalafell",
       "4" : "Roegadyn"
     },
     "385" : {
-      "question" : "Which of these is NOT one of Donald Trump&#039;s children?",
+      "question" : "Which of these is NOT one of Donald Trump's children?",
       "1" : "Julius",
       "2" : "Donald Jr.",
       "3" : "Ivanka",
       "4" : "Eric"
     },
     "386" : {
-      "question" : "What is the boss round featured in the &quot;Call Of Duty: Zombies&quot; map &quot;Five&quot;?",
+      "question" : "What is the boss round featured in the "Call Of Duty: Zombies" map "Five"?",
       "1" : "The Pentagon Thief",
       "2" : "Hellhounds",
       "3" : "Jumping Jacks",
       "4" : "Napalm Zombie"
     },
     "387" : {
-      "question" : "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+      "question" : "Who developed the 2016 farming RPG "Stardew Valley"?",
       "1" : "Eric Barone",
       "2" : "Daisuke Amaya",
       "3" : "Jasper Byrne",
       "4" : "Lucas Pope"
     },
     "388" : {
-      "question" : "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
+      "question" : "What was the development code name for the "Weatherlight" expansion for "Magic: The Gathering", released in 1997?",
       "1" : "Mocha Latte",
       "2" : "Decaf",
       "3" : "Frappuccino",
       "4" : "Macchiato"
     },
     "389" : {
-      "question" : "What is the theme song of &quot;Neon Genesis Evangelion&quot;?",
-      "1" : "A Cruel Angel&#039;s Thesis",
+      "question" : "What is the theme song of "Neon Genesis Evangelion"?",
+      "1" : "A Cruel Angel's Thesis",
       "2" : "Stardust Crusaders",
       "3" : "Requiem for a Dream",
       "4" : "God Knows"
@@ -2731,7 +2732,7 @@
       "4" : "Blue"
     },
     "391" : {
-      "question" : "What is the name of the inspector in the series &quot;On the Buses&quot;?",
+      "question" : "What is the name of the inspector in the series "On the Buses"?",
       "1" : "Blakey",
       "2" : "Harper",
       "3" : "Naily",
@@ -2766,49 +2767,49 @@
       "4" : "Intestines"
     },
     "396" : {
-      "question" : "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
+      "question" : "What name is the main character Chihiro given in the 2001 movie "Spirited Away"?",
       "1" : "Sen (Thousand)",
       "2" : "Hyaku (Hundred)",
       "3" : "Ichiman (Ten thousand)",
       "4" : "Juu (Ten)"
     },
     "397" : {
-      "question" : "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+      "question" : "Which greek god/goddess tossed a golden apple with the words "for the fairest" into the middle of the feast of the gods?",
       "1" : "Eris",
       "2" : "Hades",
       "3" : "Ares",
       "4" : "Artemis"
     },
     "398" : {
-      "question" : "What is Jean ValJean&#039;s first prisoner number?",
+      "question" : "What is Jean ValJean's first prisoner number?",
       "1" : "24601",
       "2" : "9430",
       "3" : "1729",
       "4" : "32769"
     },
     "399" : {
-      "question" : "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+      "question" : "In "Homestuck" the "Kingdom of Darkness" is also known as?",
       "1" : "Derse",
       "2" : "Skaia",
       "3" : "Prospit",
       "4" : "The Medium"
     },
     "400" : {
-      "question" : "Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?",
+      "question" : "Panic! At the Disco's sixth album "Pray For The Wicked" was released on which date?",
       "1" : "June 22, 2018",
       "2" : "May 9, 2018",
       "3" : "March 13, 2018",
       "4" : "February 21, 2018"
     },
     "401" : {
-      "question" : "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+      "question" : "In the TV show "Cheers", Sam Malone was a former relief pitcher for which baseball team?",
       "1" : "Boston Red Sox",
       "2" : "New York Mets",
       "3" : "Baltimore Orioles",
       "4" : "Milwaukee Brewers"
     },
     "402" : {
-      "question" : "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+      "question" : "Which movie contains the quote, "Say hello to my little friend!"?",
       "1" : "Scarface",
       "2" : "Reservoir Dogs",
       "3" : "Heat",
@@ -2822,14 +2823,14 @@
       "4" : "Keeper"
     },
     "404" : {
-      "question" : "What is &quot;dabbing&quot;?",
+      "question" : "What is "dabbing"?",
       "1" : "A dance",
       "2" : "A medical procedure",
       "3" : "A sport",
       "4" : "A language"
     },
     "405" : {
-      "question" : "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+      "question" : "The original mascot of the popular Nintendo game, "Splatoon" was going to be...",
       "1" : "Mario",
       "2" : "Inklings",
       "3" : "Octolings",
@@ -2878,7 +2879,7 @@
       "4" : "6"
     },
     "412" : {
-      "question" : "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
+      "question" : ""Rollercoaster Tycoon" was programmed mostly entirely in...",
       "1" : "x86 Assembly",
       "2" : "C++",
       "3" : "C",
@@ -2892,14 +2893,14 @@
       "4" : "Felis catus"
     },
     "414" : {
-      "question" : "What is the romanized Russian word for &quot;winter&quot;?",
+      "question" : "What is the romanized Russian word for "winter"?",
       "1" : "Zima",
       "2" : "Leto",
       "3" : "Vesna",
-      "4" : "Osen&#039;"
+      "4" : "Osen'"
     },
     "415" : {
-      "question" : "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+      "question" : "In the show Stranger Things, what is Eleven's favorite breakfast food?",
       "1" : "Eggo Waffles",
       "2" : "Toast",
       "3" : "Captain Crunch",
@@ -2913,7 +2914,7 @@
       "4" : "Wally Wombat"
     },
     "417" : {
-      "question" : "In Undertale, what&#039;s the prize for answering correctly?",
+      "question" : "In Undertale, what's the prize for answering correctly?",
       "1" : "More questions",
       "2" : "New car",
       "3" : "Mercy",
@@ -2934,7 +2935,7 @@
       "4" : "Fire"
     },
     "420" : {
-      "question" : "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+      "question" : "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist's "Ghost"?",
       "1" : "Nolan North",
       "2" : "John DiMaggio",
       "3" : "Mark Hamill",
@@ -2983,14 +2984,14 @@
       "4" : "Cat"
     },
     "427" : {
-      "question" : "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+      "question" : ""The first rule is: you don't talk about it" is a reference to which movie?",
       "1" : "Fight Club",
       "2" : "The Island",
       "3" : "Unthinkable",
       "4" : "American Pie"
     },
     "428" : {
-      "question" : "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+      "question" : "In the show "Steven Universe", who are the main two employees of The Big Donut?",
       "1" : "Sadie and Lars",
       "2" : "Steven and James",
       "3" : "Erik and Julie",
@@ -3011,21 +3012,21 @@
       "4" : "825 ft | 251.5 m"
     },
     "431" : {
-      "question" : "What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?",
+      "question" : "What is Everest's favorite food in the Nickelodeon/Nick Jr. series "PAW Patrol"?",
       "1" : "Liver",
       "2" : "Chicken",
       "3" : "Steak",
       "4" : "Caribou"
     },
     "432" : {
-      "question" : "Sean Bean voices the character of &quot;Martin Septim&quot; in which Elder Scrolls game?",
+      "question" : "Sean Bean voices the character of "Martin Septim" in which Elder Scrolls game?",
       "1" : "The Elder Scrolls IV: Oblivion",
       "2" : "The Elder Scrolls V: Skyrim",
       "3" : "The Elder Scrolls III: Morrowind ",
       "4" : "The Elder Scrolls Online"
     },
     "433" : {
-      "question" : "How many unique items does &quot;Borderlands 2&quot; claim to have?",
+      "question" : "How many unique items does "Borderlands 2" claim to have?",
       "1" : "87 Bazillion ",
       "2" : "87 Million",
       "3" : "87 Trillion",
@@ -3039,14 +3040,14 @@
       "4" : "18"
     },
     "435" : {
-      "question" : "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+      "question" : "Which "Call Of Duty: Zombies" map introduced the "Staffs Of The Ancients"?",
       "1" : "Origins",
       "2" : "Shangri-La",
       "3" : "Revelations",
       "4" : "Nuketown"
     },
     "436" : {
-      "question" : "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+      "question" : "In the "PAYDAY" series, what is the real name of the character known as "Dallas"?",
       "1" : "Nathan Steele",
       "2" : "Nate Siemens",
       "3" : "Nick Stamos",
@@ -3067,21 +3068,21 @@
       "4" : "Vladimir Vysotsky"
     },
     "439" : {
-      "question" : "In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?",
+      "question" : "In "Black Lagoon", what colour is Rock's tie?",
       "1" : "Teal",
       "2" : "Crimson",
       "3" : "Dark Brown",
       "4" : "Black"
     },
     "440" : {
-      "question" : "What is the most challenging monster in the Dungeons &amp; Dragons 5th Edition Monster Manual?",
+      "question" : "What is the most challenging monster in the Dungeons & Dragons 5th Edition Monster Manual?",
       "1" : "Tarrasque",
       "2" : "Beholder",
       "3" : "Displacer Beast",
       "4" : "Lich"
     },
     "441" : {
-      "question" : "In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?",
+      "question" : "In "Puella Magi Madoka Magica", what is the first name of Madoka's younger brother?",
       "1" : "Tatsuya",
       "2" : "Montoya",
       "3" : "Tomohisa",
@@ -3096,10 +3097,10 @@
     },
     "443" : {
       "question" : "In which fast food chain can you order a Jamocha Shake?",
-      "1" : "Arby&#039;s",
-      "2" : "McDonald&#039;s",
+      "1" : "Arby's",
+      "2" : "McDonald's",
       "3" : "Burger King",
-      "4" : "Wendy&#039;s"
+      "4" : "Wendy's"
     },
     "444" : {
       "question" : "Chino Moreno is the lead singer of which alternative metal band?",
@@ -3109,7 +3110,7 @@
       "4" : "Type O Negative"
     },
     "445" : {
-      "question" : "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+      "question" : "Which weapon that was cut from the game "Half Life 2" was going to replace the crowbar?",
       "1" : "Ice Axe",
       "2" : "Fire Axe",
       "3" : "Wrench",
@@ -3123,7 +3124,7 @@
       "4" : "Switzerland"
     },
     "447" : {
-      "question" : "What is the real name of the &quot;Master Of Magnetism&quot; Magneto?",
+      "question" : "What is the real name of the "Master Of Magnetism" Magneto?",
       "1" : "Max Eisenhardt",
       "2" : "Charles Xavier",
       "3" : "Pietro Maximoff",
@@ -3151,8 +3152,8 @@
       "4" : "95"
     },
     "451" : {
-      "question" : "What is the name of &quot;Team Fortress 2&quot; update, in which it became Free-to-play?",
-      "1" : "&Uuml;ber Update",
+      "question" : "What is the name of "Team Fortress 2" update, in which it became Free-to-play?",
+      "1" : "Über Update",
       "2" : "Pyromania Update",
       "3" : "Mann-Conomy Update",
       "4" : "Engineer Update"
@@ -3179,7 +3180,7 @@
       "4" : "The Lich King"
     },
     "455" : {
-      "question" : "The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?",
+      "question" : "The theme for the popular science fiction series "Doctor Who" was composed by who?",
       "1" : "Ron Grainer",
       "2" : "Murray Gold",
       "3" : "Delia Derbyshire",
@@ -3221,7 +3222,7 @@
       "4" : "Transportation"
     },
     "461" : {
-      "question" : "When was the game &#039;Portal 2&#039; released?",
+      "question" : "When was the game 'Portal 2' released?",
       "1" : "2011",
       "2" : "2014",
       "3" : "2009",
@@ -3235,7 +3236,7 @@
       "4" : "Burkina Faso"
     },
     "463" : {
-      "question" : "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+      "question" : "In the 1994 movie "Speed", what is the minimum speed the bus must go to prevent to bomb from exploding?",
       "1" : "50 mph",
       "2" : "60 mph",
       "3" : "40 mph",
@@ -3249,7 +3250,7 @@
       "4" : "The Spitter"
     },
     "465" : {
-      "question" : "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+      "question" : "Who played Baron Victor Frankestein in the 1957 Hammer horror film "The Curse of Frankenstein"?",
       "1" : "Peter Cushing",
       "2" : "Boris Karloff",
       "3" : "Vincent Price",
@@ -3263,14 +3264,14 @@
       "4" : "Chiron"
     },
     "467" : {
-      "question" : "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
-      "1" : "Shoot &#039;Em Up",
-      "2" : "Point &amp; Click",
+      "question" : "What type of genre is the controversial 2015 game "Hatred"?",
+      "1" : "Shoot 'Em Up",
+      "2" : "Point & Click",
       "3" : "MMORPG",
       "4" : "Simulation"
     },
     "468" : {
-      "question" : "What was the title of Sakamoto Kyu&#039;s song &quot;Ue o Muite Arukou&quot; (I Look Up As I Walk) changed to in the United States?",
+      "question" : "What was the title of Sakamoto Kyu's song "Ue o Muite Arukou" (I Look Up As I Walk) changed to in the United States?",
       "1" : "Sukiyaki",
       "2" : "Takoyaki",
       "3" : "Sushi",
@@ -3347,42 +3348,42 @@
       "4" : "TzHaar Massacre"
     },
     "479" : {
-      "question" : "The character Momonga from the &quot;Overlord&quot; series orders his servants to call him by what name?",
+      "question" : "The character Momonga from the "Overlord" series orders his servants to call him by what name?",
       "1" : "Ainz Ooal Gown",
       "2" : "Master",
       "3" : "Yggdrasil",
       "4" : "Kugane Maruyama"
     },
     "480" : {
-      "question" : "Which car manufacturer created the &quot;Aventador&quot;?",
+      "question" : "Which car manufacturer created the "Aventador"?",
       "1" : "Lamborghini",
       "2" : "Ferrari",
       "3" : "Pagani",
       "4" : "Bugatti"
     },
     "481" : {
-      "question" : "In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+      "question" : "In "The Binding of Isaac", which item instantly kills Mom and Mom's Heart?",
       "1" : "The Bible",
       "2" : "The Halo",
       "3" : "Brimstone",
       "4" : "Book of Shadows"
     },
     "482" : {
-      "question" : "In &quot;Highschool DxD&quot;, Koneko Toujou is from what race?",
+      "question" : "In "Highschool DxD", Koneko Toujou is from what race?",
       "1" : "Nekomata",
       "2" : "Kitsune",
       "3" : "Human",
       "4" : "Kappa"
     },
     "483" : {
-      "question" : "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+      "question" : "Which actor plays the character "Tommy Jarvis" in "Friday the 13th: The Final Chapter" (1984)?",
       "1" : "Corey Feldman",
       "2" : "Macaulay Culkin",
       "3" : "Mel Gibson",
       "4" : "Mark Hamill"
     },
     "484" : {
-      "question" : "Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?",
+      "question" : "Which animation studio produced the anime adaptation of "xxxHolic"?",
       "1" : "Production I.G",
       "2" : "Sunrise",
       "3" : "Xebec",
@@ -3410,7 +3411,7 @@
       "4" : "Krypton"
     },
     "488" : {
-      "question" : "What is the name of the Alligator that The Simpsons &quot;killed&quot; in the episode &quot;Kill The Alligator and Run&quot;?",
+      "question" : "What is the name of the Alligator that The Simpsons "killed" in the episode "Kill The Alligator and Run"?",
       "1" : "Captain Jack",
       "2" : "Captain Jake",
       "3" : "Captain Hector",
@@ -3480,18 +3481,18 @@
       "4" : "Kobe Bryant"
     },
     "498" : {
-      "question" : "What is the fourth digit of &pi;?",
+      "question" : "What is the fourth digit of π?",
       "1" : "1",
       "2" : "2",
       "3" : "3",
       "4" : "4"
     },
     "499" : {
-      "question" : "Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?",
-      "1" : "Nintendo&reg; Co. Ltd. | GameCube&trade;",
-      "2" : "Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2",
-      "3" : "Microsoft&reg; Game Studios&trade; | XBox&trade;",
-      "4" : "Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;"
+      "question" : "Psych-Horror "Eternal Darkness: Sanity's Requiem", developed by Silicon Knights in 2002, was published by who and on what platform?",
+      "1" : "Nintendo® Co. Ltd. | GameCube™",
+      "2" : "Sony® Computer Entertainment™ Inc. | PlayStation® 2",
+      "3" : "Microsoft® Game Studios™ | XBox™",
+      "4" : "Sega® Enterprises Co. Ltd. | Dreamcast™"
     },
     "500" : {
       "question" : "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",

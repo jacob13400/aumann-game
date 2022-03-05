@@ -70,7 +70,7 @@ export default function GameBody(props) {
   };
 
   const updatePoints = async () => {
-    const query = {username: props.username, roomID: Number(props.roomID), estimate: Number(estimate), answerBool: answerBool};
+    const query = {username: props.username, roomID: Number(props.roomID), estimate: Number(estimate), answerBool: answerBool, userCount: props.userList.length};
     const points = await updateUserPoints(query);
   };
 
